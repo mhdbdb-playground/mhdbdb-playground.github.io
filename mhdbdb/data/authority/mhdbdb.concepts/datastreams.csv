@@ -1,0 +1,4 @@
+"dsid","dspath","title","mimetype","description","creator","rights","tags","lang"
+"DC.xml","DC.xml","DC.xml","text/xml","Datastream for DC.xml","MHDBDB","Creative Commons BY-NC 4.0","metadata","de;en"
+"TEI.xml","TEI.xml","Concepts taxonomy","text/xml","TEI file containing MHDBDB's concepts taxonomy","MHDBDBD","Creative Commons BY-NC 4.0","taxonomy", "de;en"
+"SEARCH.json","SEARCH.json","JSON translated taxonomy","application/json","JSON translation of the categories of the taxonomy","MHDBDBD","Creative Commons BY-NC 4.0","database;derivate", "de;en"

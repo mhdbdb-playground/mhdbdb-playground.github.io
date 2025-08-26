@@ -1,0 +1,9661 @@
+[
+  {
+    "id": "concept_10000000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Universum/Welt"
+    ],
+    "terms_en_ss": [
+      "Universe/world"
+    ],
+    "broader_ss": [],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_11000000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Himmel/Atmosphäre/Himmelskörper",
+      "Astronomische Objekte"
+    ],
+    "terms_en_ss": [
+      "Sky/Atmosphere/Celestial bodies",
+      "Space"
+    ],
+    "broader_ss": [
+      "#concept_10000000",
+      "#concept_32160000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_11100000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Himmelskörper/Namen"
+    ],
+    "terms_en_ss": [
+      "Celestial Bodies/Names"
+    ],
+    "broader_ss": [
+      "#concept_11000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_11200000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Wetter/Winde",
+      "Witterung"
+    ],
+    "terms_en_ss": [
+      "Weather/Winds",
+      "Weather conditions"
+    ],
+    "broader_ss": [
+      "#concept_11000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_11210000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Wetter und Winde/Namen"
+    ],
+    "terms_en_ss": [
+      "Weather and Winds/Names"
+    ],
+    "broader_ss": [
+      "#concept_11200000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_11300000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Himmelsrichtungen"
+    ],
+    "terms_en_ss": [
+      "Cardinal points"
+    ],
+    "broader_ss": [
+      "#concept_11000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_12000000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Planet Erde",
+      "Globus"
+    ],
+    "terms_en_ss": [
+      "Planet Earth",
+      "Globe"
+    ],
+    "broader_ss": [
+      "#concept_10000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_12010000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Geografische Erscheinungen/Landschaft",
+      "Geographische Erscheinungen/Landschaft"
+    ],
+    "terms_en_ss": [
+      "Geographic phenomena/Landscape",
+      "Terrain"
+    ],
+    "broader_ss": [
+      "#concept_12000000",
+      "#concept_32800000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_12011000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Geografische Erscheinungen/Landschaft/Namen"
+    ],
+    "terms_en_ss": [
+      "Geographic Phenomena/Landscape/Names"
+    ],
+    "broader_ss": [
+      "#concept_12010000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_12012000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Gebirge/Berge/Namen"
+    ],
+    "terms_en_ss": [
+      "Mountains/Names"
+    ],
+    "broader_ss": [
+      "#concept_12010000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_12013000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Inseln/Namen"
+    ],
+    "terms_en_ss": [
+      "Islands/Names"
+    ],
+    "broader_ss": [
+      "#concept_12010000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_12014000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Fantast. Geogr. Ersch./Namen"
+    ],
+    "terms_en_ss": [
+      "Phantast Geographical Names"
+    ],
+    "broader_ss": [
+      "#concept_12010000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_12015000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Fantast. Gebirge/Berge/Namen"
+    ],
+    "terms_en_ss": [
+      "Phantast Mountains/Names"
+    ],
+    "broader_ss": [
+      "#concept_12010000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_12016000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Wälder/Forste/Namen"
+    ],
+    "terms_en_ss": [
+      "Woods/Forests/Names"
+    ],
+    "broader_ss": [
+      "#concept_12010000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_12020000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Gewässer auf der Erde",
+      "Wasser auf der Erde"
+    ],
+    "terms_en_ss": [
+      "Waters on earth",
+      "Water on the earth"
+    ],
+    "broader_ss": [
+      "#concept_12000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_12021000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Binnengewässer"
+    ],
+    "terms_en_ss": [
+      "Inland water"
+    ],
+    "broader_ss": [
+      "#concept_12020000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_12021100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Binnengewässer/Namen"
+    ],
+    "terms_en_ss": [
+      "Inland Water/Names"
+    ],
+    "broader_ss": [
+      "#concept_12021000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_12021200",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Fantastische Gewässer/Namen"
+    ],
+    "terms_en_ss": [
+      "Fantastic Waters/Names"
+    ],
+    "broader_ss": [
+      "#concept_12021000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_12022000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Meer",
+      "Ozean"
+    ],
+    "terms_en_ss": [
+      "Sea",
+      "Ocean"
+    ],
+    "broader_ss": [
+      "#concept_12020000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_12022100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Meer/Namen"
+    ],
+    "terms_en_ss": [
+      "Ocean/Names"
+    ],
+    "broader_ss": [
+      "#concept_12022000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_12030000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Boden/Bodenbeschaffenheit"
+    ],
+    "terms_en_ss": [
+      "Ground/Surface conditions"
+    ],
+    "broader_ss": [
+      "#concept_12000000",
+      "#concept_32800000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_12040000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Mineralien"
+    ],
+    "terms_en_ss": [
+      "Minerals"
+    ],
+    "broader_ss": [
+      "#concept_12000000",
+      "#concept_32200000",
+      "#concept_32800000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_12041000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Mineralien/Namen"
+    ],
+    "terms_en_ss": [
+      "Minerals/Names"
+    ],
+    "broader_ss": [
+      "#concept_12040000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_12050000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Metalle"
+    ],
+    "terms_en_ss": [
+      "Metals"
+    ],
+    "broader_ss": [
+      "#concept_12000000",
+      "#concept_12050000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_12051000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Metalle/Namen"
+    ],
+    "terms_en_ss": [
+      "Metals/Names"
+    ],
+    "broader_ss": [
+      "#concept_12050000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_13000000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Vegetation",
+      "Flora"
+    ],
+    "terms_en_ss": [
+      "Vegetation",
+      "Plants"
+    ],
+    "broader_ss": [
+      "#concept_32400000",
+      "#concept_10000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_13020000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Bäume"
+    ],
+    "terms_en_ss": [
+      "Trees"
+    ],
+    "broader_ss": [
+      "#concept_13000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_13022000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Waldbäume/Flurbäume"
+    ],
+    "terms_en_ss": [
+      "Forest trees/Meadow trees"
+    ],
+    "broader_ss": [
+      "#concept_13020000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_13023000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Obstbäume"
+    ],
+    "terms_en_ss": [
+      "Fruit trees"
+    ],
+    "broader_ss": [
+      "#concept_13020000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_13023100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Obst",
+      "Früchte"
+    ],
+    "terms_en_ss": [
+      "Fruits"
+    ],
+    "broader_ss": [
+      "#concept_13020000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_13025000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Exotische Bäume"
+    ],
+    "terms_en_ss": [
+      "Exotic trees"
+    ],
+    "broader_ss": [
+      "#concept_13020000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_13030000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Büsche",
+      "Unterholz"
+    ],
+    "terms_en_ss": [
+      "Bushes",
+      "Underwood"
+    ],
+    "broader_ss": [
+      "#concept_13000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_13031000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Beeren",
+      "Beerensträucher"
+    ],
+    "terms_en_ss": [
+      "Berries",
+      "Berry bushes"
+    ],
+    "broader_ss": [
+      "#concept_13030000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_13033000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Nüsse/Kerne/Saaten"
+    ],
+    "terms_en_ss": [
+      "Nuts/Kernels/Seeds"
+    ],
+    "broader_ss": [
+      "#concept_13030000",
+      "#concept_13023000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_13040000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Getreide",
+      "Korn"
+    ],
+    "terms_en_ss": [
+      "Cereals",
+      "Grain"
+    ],
+    "broader_ss": [
+      "#concept_13000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_13050000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Gemüse",
+      "Vegetabilien"
+    ],
+    "terms_en_ss": [
+      "Vegetables",
+      "Greens"
+    ],
+    "broader_ss": [
+      "#concept_13000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_13051000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Hülsenfrüchte"
+    ],
+    "terms_en_ss": [
+      "Pulses",
+      "Legumes"
+    ],
+    "broader_ss": [
+      "#concept_13050000",
+      "#concept_13000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_13051100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Hülsenfrüchte/Verarbeitung"
+    ],
+    "terms_en_ss": [
+      "Legumes/Pulses/Processing"
+    ],
+    "broader_ss": [
+      "#concept_13051000",
+      "#concept_23305400"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_13060000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Futterpflanzen",
+      "Futtermittel"
+    ],
+    "terms_en_ss": [
+      "Forage plants",
+      "Fodder crops"
+    ],
+    "broader_ss": [
+      "#concept_13000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_13070000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Weitere Nutzpflanzen",
+      "Weitere Kulturpflanzen"
+    ],
+    "terms_en_ss": [
+      "Other useful plants",
+      "Other cultivated plants"
+    ],
+    "broader_ss": [
+      "#concept_13000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_13071000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Nutzpflanzen/Verarbeitung",
+      "Kulturpflanzen/Verarbeitung"
+    ],
+    "terms_en_ss": [
+      "Useful plants/Further processing",
+      "Other cultivated plants/Further processing"
+    ],
+    "broader_ss": [
+      "#concept_13070000",
+      "#concept_23305400"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_13080000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Weitere Wiesenpflanzen/Waldpflanzen/Gewächse"
+    ],
+    "terms_en_ss": [
+      "Other meadow plants/Forest plants"
+    ],
+    "broader_ss": [
+      "#concept_13000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_13081000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Pilze",
+      "Fungus"
+    ],
+    "terms_en_ss": [
+      "Mushrooms",
+      "Fungus"
+    ],
+    "broader_ss": [
+      "#concept_13080000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_13082000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Algen/Moose/Flechten"
+    ],
+    "terms_en_ss": [
+      "Algae/Mosses/Lichens"
+    ],
+    "broader_ss": [
+      "#concept_13080000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_13090000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Arzneipflanzen",
+      "Humoralpathologisch relevante Pflanzen"
+    ],
+    "terms_en_ss": [
+      "Medicinal plants",
+      "Humoralpathologically relevant plants"
+    ],
+    "broader_ss": [
+      "#concept_32600000",
+      "#concept_32620000",
+      "#concept_13080000",
+      "#concept_13070000",
+      "#concept_13000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_13100000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Zierpflanzen",
+      "Blühpflanzen"
+    ],
+    "terms_en_ss": [
+      "Ornamental plants",
+      "Flowering plants"
+    ],
+    "broader_ss": [
+      "#concept_13000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_13101000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Verarbeitung von Zierpflanzen",
+      "Verarbeitung von Blühpflanzen"
+    ],
+    "terms_en_ss": [
+      "Further processing of ornamental plants",
+      "Further processing of flowering plants"
+    ],
+    "broader_ss": [
+      "#concept_13100000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_13110000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Giftpflanzen",
+      "Giftige Pflanzen"
+    ],
+    "terms_en_ss": [
+      "Poisonous plants",
+      "Toxic plants"
+    ],
+    "broader_ss": [
+      "#concept_21091100",
+      "#concept_13000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_13130000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Fantastische Pflanzen",
+      "Mythologische Pflanzen"
+    ],
+    "terms_en_ss": [
+      "Fantastic plants",
+      "Mythological plants"
+    ],
+    "broader_ss": [
+      "#concept_13000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_13131000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Fantastische Pflanzen/Namen"
+    ],
+    "terms_en_ss": [
+      "Fantastic Plants/Names"
+    ],
+    "broader_ss": [
+      "#concept_13130000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_13140000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Wasserpflanzen",
+      "Hydrophyten"
+    ],
+    "terms_en_ss": [
+      "Water plants",
+      "Aquatic plants"
+    ],
+    "broader_ss": [
+      "#concept_13000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_13150000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Gewürzpflanzen",
+      "Pflanzliche Würzmittel"
+    ],
+    "terms_en_ss": [
+      "Spice plants",
+      "Herbal seasonings"
+    ],
+    "broader_ss": [
+      "#concept_13070000",
+      "#concept_21111305",
+      "#concept_13000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_13160000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Pflanzenkrankheiten",
+      "Pflanzenerkrankungen"
+    ],
+    "terms_en_ss": [
+      "Plant diseases",
+      "Phytopathology"
+    ],
+    "broader_ss": [
+      "#concept_13000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14000000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Tierwelt",
+      "Tierreich"
+    ],
+    "terms_en_ss": [
+      "Wildlife",
+      "Fauna"
+    ],
+    "broader_ss": [],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14010000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Säugetiere"
+    ],
+    "terms_en_ss": [
+      "Mammals"
+    ],
+    "broader_ss": [
+      "#concept_14000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14011100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Körper/Gliedmaßen von Säugetieren"
+    ],
+    "terms_en_ss": [
+      "Body/Limbs of mammals"
+    ],
+    "broader_ss": [
+      "#concept_14010000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14011200",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Organe von Säugetieren und ihre Funktionen",
+      "Säugetierorgane und ihre Funktion"
+    ],
+    "terms_en_ss": [
+      "Organs of mammals and their functions"
+    ],
+    "broader_ss": [
+      "#concept_14010000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14011210",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Gehirn/Nervensystem von Säugetieren"
+    ],
+    "terms_en_ss": [
+      "Brain/Nervous system of mammals"
+    ],
+    "broader_ss": [
+      "#concept_14011200"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14011220",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Kreislaufsystem von Säugetieren",
+      "Blutkreislauf von Säugetieren"
+    ],
+    "terms_en_ss": [
+      "Circulatory system of mammals",
+      "Mammalian blood circulation"
+    ],
+    "broader_ss": [
+      "#concept_14011200"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14011230",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Atmung von Säugetieren",
+      "Respiration von Säugetieren"
+    ],
+    "terms_en_ss": [
+      "Respiratory system of mammals",
+      "Breathing of mammals"
+    ],
+    "broader_ss": [
+      "#concept_14011200"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14011240",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Stoffwechsel von Säugetieren",
+      "Metabolismus von Säugetieren"
+    ],
+    "terms_en_ss": [
+      "Metabolism of mammals",
+      "Mammalian metabolism"
+    ],
+    "broader_ss": [
+      "#concept_14011200"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14011300",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Säugetiere/Verarbeitung"
+    ],
+    "terms_en_ss": [
+      "Mammals/Processing"
+    ],
+    "broader_ss": [
+      "#concept_14010000",
+      "#concept_23305400",
+      "#concept_23305900"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14011400",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Säugetiere/Namen"
+    ],
+    "terms_en_ss": [
+      "Mammals/Names"
+    ],
+    "broader_ss": [
+      "#concept_14010000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14012000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Haustiere/Nutztiere"
+    ],
+    "terms_en_ss": [
+      "Domestic Animals/Pets"
+    ],
+    "broader_ss": [
+      "#concept_14010000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14012100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Haustiere/Namen"
+    ],
+    "terms_en_ss": [
+      "Domestic Animals/Names"
+    ],
+    "broader_ss": [
+      "#concept_14012000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14013000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Kleinsäuger",
+      "Kleingetier in menschlicher Nachbarschaft"
+    ],
+    "terms_en_ss": [
+      "Small mammals",
+      "Small animals within human environment"
+    ],
+    "broader_ss": [
+      "#concept_14010000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14014000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Feldsäugetiere/Waldsäugetiere",
+      "Feldtiere/Waldtiere"
+    ],
+    "terms_en_ss": [
+      "Field mammals/Forest mammals",
+      "Field animals/Forest animals"
+    ],
+    "broader_ss": [
+      "#concept_14010000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14015000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Bergtiere"
+    ],
+    "terms_en_ss": [
+      "Mountain animals"
+    ],
+    "broader_ss": [
+      "#concept_14010000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14016000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Wassersäugetiere",
+      "Säugetiere im und am Wasser"
+    ],
+    "terms_en_ss": [
+      "Water mammals",
+      "Aquatic and semi-aquatic mammals"
+    ],
+    "broader_ss": [
+      "#concept_14010000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14017000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Exotische Säugetiere",
+      "Exotische Tiere"
+    ],
+    "terms_en_ss": [
+      "Exotic mammals",
+      "Exotic animals"
+    ],
+    "broader_ss": [
+      "#concept_14010000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14017100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Exotische Tiere/Namen"
+    ],
+    "terms_en_ss": [
+      "Exotic Animals/Names"
+    ],
+    "broader_ss": [
+      "#concept_14017000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14020000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Vögel",
+      "Vogel"
+    ],
+    "terms_en_ss": [
+      "Birds"
+    ],
+    "broader_ss": [
+      "#concept_14000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14021100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Körper/Gliedmaßen von Vögeln",
+      "Körper/Gliedmaßen vom Vogel"
+    ],
+    "terms_en_ss": [
+      "Body/Limbs of birds"
+    ],
+    "broader_ss": [
+      "#concept_14020000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14021200",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Organe von Vögeln und ihre Funktionen"
+    ],
+    "terms_en_ss": [
+      "Organs of birds and their functions",
+      "Vogelorgane und ihre Funktion"
+    ],
+    "broader_ss": [
+      "#concept_14020000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14021220",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Gehirn/Nervensystem von Vögeln",
+      "Vogelgehirn und Nervensystem vom Vogel"
+    ],
+    "terms_en_ss": [
+      "Brain/Nervous system of birds"
+    ],
+    "broader_ss": [
+      "#concept_14021200"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14021230",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Stoffwechsel von Vögeln",
+      "Metabolismus vom Vogel"
+    ],
+    "terms_en_ss": [
+      "Metabolism of birds"
+    ],
+    "broader_ss": [
+      "#concept_14021200"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14021300",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Verarbeitung von Vögeln",
+      "Vogelverarbeitung"
+    ],
+    "terms_en_ss": [
+      "Processing of birds",
+      "Poultry processing"
+    ],
+    "broader_ss": [
+      "#concept_14020000",
+      "#concept_23305400"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14022000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Feldvögel/Waldvögel",
+      "Geflügel im Feld/Wald"
+    ],
+    "terms_en_ss": [
+      "Field birds/Forest birds",
+      "Poultry in field/forest"
+    ],
+    "broader_ss": [
+      "#concept_14020000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14023000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Wasservögel/Seevögel",
+      "Wassergeflügel"
+    ],
+    "terms_en_ss": [
+      "Aquatic birds/Seabirds",
+      "Waterfowl"
+    ],
+    "broader_ss": [
+      "#concept_14020000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14024000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Raubvögel",
+      "Greifvogel/Eule"
+    ],
+    "terms_en_ss": [
+      "Birds of prey",
+      "Raptors/Owls"
+    ],
+    "broader_ss": [
+      "#concept_14020000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14025000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Hausgeflügel",
+      "Vogel im Haushalt"
+    ],
+    "terms_en_ss": [
+      "Domestic fowl",
+      "Domestic birds"
+    ],
+    "broader_ss": [
+      "#concept_14020000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14026000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Exotische Vögel",
+      "Exotischer Vogel"
+    ],
+    "terms_en_ss": [
+      "Exotic birds"
+    ],
+    "broader_ss": [
+      "#concept_14020000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14027000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Vögel/Namen"
+    ],
+    "terms_en_ss": [
+      "Birds/Names"
+    ],
+    "broader_ss": [
+      "#concept_14020000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14028000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Vogelzucht",
+      "Zucht von Vögeln"
+    ],
+    "terms_en_ss": [
+      "Bird breeding",
+      "Poultry farming"
+    ],
+    "broader_ss": [
+      "#concept_14020000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14030000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Fische"
+    ],
+    "terms_en_ss": [
+      "Fishes"
+    ],
+    "broader_ss": [
+      "#concept_14000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14031100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Körper/Gliedmaßen von Fischen"
+    ],
+    "terms_en_ss": [
+      "Body/Limbs of fish"
+    ],
+    "broader_ss": [
+      "#concept_14030000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14031200",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Organe von Fischen und ihre Funktionen",
+      "Fischorgane und ihre Funktion"
+    ],
+    "terms_en_ss": [
+      "Organs of fish and their functions"
+    ],
+    "broader_ss": [
+      "#concept_14030000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14031210",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Atmung von Fischen",
+      "Respiration von Fischen"
+    ],
+    "terms_en_ss": [
+      "Respiratory system of fish",
+      "Breathing of fish"
+    ],
+    "broader_ss": [
+      "#concept_14031200"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14031300",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Verarbeitung von Fischen",
+      "Fischverarbeitung"
+    ],
+    "terms_en_ss": [
+      "Processing of fish"
+    ],
+    "broader_ss": [
+      "#concept_23305900",
+      "#concept_23305400",
+      "#concept_14030000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14032000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Süßwasserfische"
+    ],
+    "terms_en_ss": [
+      "Freshwater fish",
+      "Fresh water fish"
+    ],
+    "broader_ss": [
+      "#concept_14030000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14033000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Salzwasserfische"
+    ],
+    "terms_en_ss": [
+      "Salt Water Fish"
+    ],
+    "broader_ss": [
+      "#concept_14030000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14034000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Fische/Namen"
+    ],
+    "terms_en_ss": [
+      "Fishes/Names"
+    ],
+    "broader_ss": [
+      "#concept_14030000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14040000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Reptilien",
+      "Kriechtiere"
+    ],
+    "terms_en_ss": [
+      "Reptiles"
+    ],
+    "broader_ss": [
+      "#concept_14000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14041000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Körper/Gliedmaßen von Reptilien",
+      "Körper/Gliedmaßen von Kriechtieren"
+    ],
+    "terms_en_ss": [
+      "Body/Limbs of reptiles"
+    ],
+    "broader_ss": [
+      "#concept_14040000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14042000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Organe von Reptilien und ihre Funktionen",
+      "Reptilienorgane und ihre Funktion"
+    ],
+    "terms_en_ss": [
+      "Organs of reptiles and their functions"
+    ],
+    "broader_ss": [
+      "#concept_14040000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14043000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Reptilien/Namen"
+    ],
+    "terms_en_ss": [
+      "Reptiles/Names"
+    ],
+    "broader_ss": [
+      "#concept_14040000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14044000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Verarbeitung von Reptilien",
+      "Verarbeitung von Kriechtieren"
+    ],
+    "terms_en_ss": [
+      "Processing of reptiles"
+    ],
+    "broader_ss": [
+      "#concept_23305900",
+      "#concept_14040000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14050000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Amphibien",
+      "Lurche"
+    ],
+    "terms_en_ss": [
+      "Amphibians"
+    ],
+    "broader_ss": [
+      "#concept_14000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14051000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Körper/Gliedmaßen von Amphibien",
+      "Körper/Gliedmaßen von Lurchen"
+    ],
+    "terms_en_ss": [
+      "Body/Limbs of amphibians",
+      "Body/Limbs of lurches"
+    ],
+    "broader_ss": [
+      "#concept_14050000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14052000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Organe von Amphibien und ihre Funktionen",
+      "Amphibienorgane und ihre Funktion"
+    ],
+    "terms_en_ss": [
+      "Organs of amphibians and their functions",
+      "Organs of lurches and their functions"
+    ],
+    "broader_ss": [
+      "#concept_14050000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14060000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Mollusken/Schalentiere",
+      "Weichtiere"
+    ],
+    "terms_en_ss": [
+      "Molluscs/Shellfish"
+    ],
+    "broader_ss": [
+      "#concept_14000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14061000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Körper/Gliedmaßen von Mollusken und Schalentieren",
+      "Körper/Gliedmaßen von Weichtieren"
+    ],
+    "terms_en_ss": [
+      "Body/Limbs of molluscs and shellfish"
+    ],
+    "broader_ss": [
+      "#concept_14060000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14062000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Verarbeitung von Mollusken und Schalentiere",
+      "Verarbeitung von Weichtieren"
+    ],
+    "terms_en_ss": [
+      "Processing of molluscs and shellfish"
+    ],
+    "broader_ss": [
+      "#concept_14060000",
+      "#concept_23305400"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14080000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Insekten/Würmer/Spinnentiere"
+    ],
+    "terms_en_ss": [
+      "Insects/Worms/Spiders"
+    ],
+    "broader_ss": [
+      "#concept_14000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14081100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Körper/Gliedmaßen von Insekten"
+    ],
+    "terms_en_ss": [
+      "Body/Limbs of insects"
+    ],
+    "broader_ss": [
+      "#concept_14080000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14081200",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Organe von Insekten und ihre Funktionen"
+    ],
+    "terms_en_ss": [
+      "Organs of insects and their functions"
+    ],
+    "broader_ss": [
+      "#concept_14080000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14090000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Tierkrankheiten/Unregelmäßigkeiten bei Tieren",
+      "Zoonose"
+    ],
+    "terms_en_ss": [
+      "Animal diseases/Animal irregularities",
+      "Zoonosis"
+    ],
+    "broader_ss": [
+      "#concept_21091200",
+      "#concept_21091000",
+      "#concept_14000000",
+      "#concept_32600000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14100000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Fantastische Tiere",
+      "Tierische Fabelwesen"
+    ],
+    "terms_en_ss": [
+      "Fantastic animals",
+      "Mythical creatures"
+    ],
+    "broader_ss": [
+      "#concept_14000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_14110000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Fantastische Tiere/Namen"
+    ],
+    "terms_en_ss": [
+      "Fantastic Animals/Names"
+    ],
+    "broader_ss": [
+      "#concept_14100000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_20000000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Mensch"
+    ],
+    "terms_en_ss": [
+      "Humans"
+    ],
+    "broader_ss": [],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21000000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Mensch/Körperliches Wesen"
+    ],
+    "terms_en_ss": [
+      "Humans/Physical beings"
+    ],
+    "broader_ss": [
+      "#concept_20000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21010000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Biologisches Geschlecht/Soziales Geschlecht"
+    ],
+    "terms_en_ss": [
+      "Sex/Gender"
+    ],
+    "broader_ss": [
+      "#concept_21000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21011000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Weiblich/Frau"
+    ],
+    "terms_en_ss": [
+      "Female/Woman"
+    ],
+    "broader_ss": [
+      "#concept_21010000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21012000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Männlich/Mann"
+    ],
+    "terms_en_ss": [
+      "Male/Man"
+    ],
+    "broader_ss": [
+      "#concept_21010000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21020000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Außergewöhnliche/Fantastische Spezies"
+    ],
+    "terms_en_ss": [
+      "Extraordinary/Fantastic species"
+    ],
+    "broader_ss": [
+      "#concept_21000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21021000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Fantastische menschenähnliche Wesen",
+      "Mythische humanoide Wesen"
+    ],
+    "terms_en_ss": [
+      "Fantastic humanoid beings",
+      "Mythological human-like beings"
+    ],
+    "broader_ss": [
+      "#concept_21020000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21022000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Fantastische menschenähnliche Wesen/Namen"
+    ],
+    "terms_en_ss": [
+      "Fantastic Humanoid Beings/Names"
+    ],
+    "broader_ss": [
+      "#concept_21020000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21030000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Körper/Gliedmaßen von Menschen"
+    ],
+    "terms_en_ss": [
+      "Body/Limbs of humans"
+    ],
+    "broader_ss": [
+      "#concept_21000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21031000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Haare/Körperbehaarung von Menschen"
+    ],
+    "terms_en_ss": [
+      "Human hair"
+    ],
+    "broader_ss": [
+      "#concept_21030000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21032000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Körperflüssigkeiten"
+    ],
+    "terms_en_ss": [
+      "Body fluids"
+    ],
+    "broader_ss": [
+      "#concept_21030000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21040000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Organe von Menschen und ihre Funktionen",
+      "Menschenorgane und ihre Funktion"
+    ],
+    "terms_en_ss": [
+      "Organs of humans and their functions"
+    ],
+    "broader_ss": [
+      "#concept_21000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21041000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Gehirn/Nervensystem von Menschen"
+    ],
+    "terms_en_ss": [
+      "Human brain/Human nervous system"
+    ],
+    "broader_ss": [
+      "#concept_21040000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21042000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Kreislaufsystem von Menschen",
+      "Menschlicher Blutkreislauf"
+    ],
+    "terms_en_ss": [
+      "Circulatory system of humans",
+      "Human blood circulation"
+    ],
+    "broader_ss": [
+      "#concept_21040000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21043000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Atmung von Menschen",
+      "Menschliche Respiration"
+    ],
+    "terms_en_ss": [
+      "Respiratory system of humans",
+      "Human breathing"
+    ],
+    "broader_ss": [
+      "#concept_21040000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21044000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Stoffwechsel von Menschen",
+      "Menschlicher Metabolismus"
+    ],
+    "terms_en_ss": [
+      "Metabolism of humans",
+      "Human metabolic processes"
+    ],
+    "broader_ss": [
+      "#concept_21040000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21045000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Geschlechtsmerkmale/Zeugung/Geburt",
+      "Genitalien/Zeugung/Schwangerschaft"
+    ],
+    "terms_en_ss": [
+      "Sexual characteristics/Procreation/Birth",
+      "Genitals/Fertilization/Giving birth"
+    ],
+    "broader_ss": [
+      "#concept_21112000",
+      "#concept_21040000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21050000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Sprechwerkzeuge",
+      "Sprechorgan"
+    ],
+    "terms_en_ss": [
+      "Organs of speech"
+    ],
+    "broader_ss": [
+      "#concept_21000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21060000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Sinnesorgane und ihre Funktion"
+    ],
+    "terms_en_ss": [
+      "Sense organs and their functions"
+    ],
+    "broader_ss": [
+      "#concept_21000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21061000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Gesichtssinn",
+      "Sehorgan"
+    ],
+    "terms_en_ss": [
+      "Sense of seeing",
+      "Optics"
+    ],
+    "broader_ss": [
+      "#concept_21060000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21062000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Gehörsinn",
+      "Hören"
+    ],
+    "terms_en_ss": [
+      "Sense of hearing",
+      "Hearing"
+    ],
+    "broader_ss": [
+      "#concept_21060000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21063000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Geruchsinn",
+      "Riechorgan"
+    ],
+    "terms_en_ss": [
+      "Sense of smell",
+      "Olfaction"
+    ],
+    "broader_ss": [
+      "#concept_21060000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21064000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Geschmackssinn",
+      "Schmecken"
+    ],
+    "terms_en_ss": [
+      "Sense of taste",
+      "Tasting"
+    ],
+    "broader_ss": [
+      "#concept_21060000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21065000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Tastsinn",
+      "Tasten"
+    ],
+    "terms_en_ss": [
+      "Sense of touch",
+      "Perception of touch"
+    ],
+    "broader_ss": [
+      "#concept_21060000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21066000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Temperaturwahrnehmung",
+      "Thermorezeption"
+    ],
+    "terms_en_ss": [
+      "Sense of temperature",
+      "Perception of temperature"
+    ],
+    "broader_ss": [
+      "#concept_21060000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21070000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Bewegungen/Stellungen/Haltungen",
+      "Posen/Körperhaltung"
+    ],
+    "terms_en_ss": [
+      "Motion/Positions/Posture",
+      "Movements/Positions/Poses"
+    ],
+    "broader_ss": [
+      "#concept_21000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21071000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Selbstbezogene Aktivität/Tätigkeit"
+    ],
+    "terms_en_ss": [
+      "Self-centered activity"
+    ],
+    "broader_ss": [
+      "#concept_21070000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21072000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Objektbezogene Aktivität/Tätigkeit"
+    ],
+    "terms_en_ss": [
+      "Object-related activity"
+    ],
+    "broader_ss": [
+      "#concept_21070000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21080000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Schlaf",
+      "Ausruhen"
+    ],
+    "terms_en_ss": [
+      "Sleep",
+      "Resting"
+    ],
+    "broader_ss": [
+      "#concept_21000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21090000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Gesundheit",
+      "Körperliches Wohlergehen"
+    ],
+    "terms_en_ss": [
+      "Health",
+      "Physical well-being"
+    ],
+    "broader_ss": [
+      "#concept_32600000",
+      "#concept_21000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21091000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Krankheiten/Deformationen/Unregelmäßigkeiten von Menschen",
+      "Körperliches Unwohlsein"
+    ],
+    "terms_en_ss": [
+      "Diseases/Deformities/Irregularities of humans",
+      "Pain"
+    ],
+    "broader_ss": [
+      "#concept_32600000",
+      "#concept_21090000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21091100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Heilung und Pflege/Gift",
+      "Heilkunst"
+    ],
+    "terms_en_ss": [
+      "Remedy and cure/Poison",
+      "Healing arts"
+    ],
+    "broader_ss": [
+      "#concept_21091000",
+      "#concept_32620000",
+      "#concept_32600000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21091110",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Säuglingspflege/Kinderpflege"
+    ],
+    "terms_en_ss": [
+      "Baby care/Child care"
+    ],
+    "broader_ss": [
+      "#concept_21045000",
+      "#concept_21091100",
+      "#concept_21101000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21091200",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Bestimmte Krankheiten",
+      "Bestimmtes körperliches Unwohlsein"
+    ],
+    "terms_en_ss": [
+      "Specific diseases",
+      "Specific pain"
+    ],
+    "broader_ss": [
+      "#concept_21091000",
+      "#concept_32600000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21100000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Leben allgemein",
+      "Wandel"
+    ],
+    "terms_en_ss": [
+      "Life in general",
+      "Change"
+    ],
+    "broader_ss": [
+      "#concept_21000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21101000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Geburt"
+    ],
+    "terms_en_ss": [
+      "Birth"
+    ],
+    "broader_ss": [
+      "#concept_21100000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21103000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Altersstufen",
+      "Lebensphasen"
+    ],
+    "terms_en_ss": [
+      "Stages of life"
+    ],
+    "broader_ss": [
+      "#concept_21100000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21104000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Natürlicher Tod/Gewaltsamer Tod",
+      "Sterben"
+    ],
+    "terms_en_ss": [
+      "Natural death/Violent death",
+      "Natural death/Murder/Manslaughter"
+    ],
+    "broader_ss": [
+      "#concept_21100000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21110000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Allgemeine menschliche Bedürfnisse"
+    ],
+    "terms_en_ss": [
+      "General human needs"
+    ],
+    "broader_ss": [
+      "#concept_21000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21111000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Ernährung von Menschen",
+      "Nahrungsaufnahme"
+    ],
+    "terms_en_ss": [
+      "Human nutrition",
+      "Diet"
+    ],
+    "broader_ss": [
+      "#concept_21110000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21111200",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Mahlzeiten",
+      "Abendessen/Nachtmahl/Festmahl/Imbiss/Frühstück/Suppe"
+    ],
+    "terms_en_ss": [
+      "Meals",
+      "Dinner/Supper/Feast/Snack/Breakfast/Soup"
+    ],
+    "broader_ss": [
+      "#concept_21111000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21111300",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Lebensmittel",
+      "Nahrungsmittel"
+    ],
+    "terms_en_ss": [
+      "Food products",
+      "Food"
+    ],
+    "broader_ss": [
+      "#concept_21111000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21111301",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Fleisch"
+    ],
+    "terms_en_ss": [
+      "Meat"
+    ],
+    "broader_ss": [
+      "#concept_21111300"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21111302",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Backwaren"
+    ],
+    "terms_en_ss": [
+      "Baked goods"
+    ],
+    "broader_ss": [
+      "#concept_21111300",
+      "#concept_23303350",
+      "#concept_21111306"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21111303",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Milchprodukte"
+    ],
+    "terms_en_ss": [
+      "Milk products"
+    ],
+    "broader_ss": [
+      "#concept_21111300",
+      "#concept_23303120",
+      "#concept_21111306"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21111304",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Nahrungszubereitung",
+      "Kochen/Backen"
+    ],
+    "terms_en_ss": [
+      "Food preparation",
+      "Cooking/Baking"
+    ],
+    "broader_ss": [
+      "#concept_21111300",
+      "#concept_23305400"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21111305",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Zutaten/Gewürze/Kräuter"
+    ],
+    "terms_en_ss": [
+      "Ingredients/Spices/Herbs"
+    ],
+    "broader_ss": [
+      "#concept_21111300"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21111306",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Speisen",
+      "Gerichte"
+    ],
+    "terms_en_ss": [
+      "Dishes"
+    ],
+    "broader_ss": [
+      "#concept_21111300"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21111307",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Getränke",
+      "Trinken"
+    ],
+    "terms_en_ss": [
+      "Beverages",
+      "Drinking"
+    ],
+    "broader_ss": [
+      "#concept_21111300"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21111308",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Eier"
+    ],
+    "terms_en_ss": [
+      "Eggs"
+    ],
+    "broader_ss": [
+      "#concept_21111300"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21111400",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Genussmittel"
+    ],
+    "terms_en_ss": [
+      "Means of luxury consumption",
+      "Luxury food and beverages"
+    ],
+    "broader_ss": [
+      "#concept_21111000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21112000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Sexualleben/Erotik",
+      "Intimität"
+    ],
+    "terms_en_ss": [
+      "Sexual life/Eroticism",
+      "Love life"
+    ],
+    "broader_ss": [
+      "#concept_21110000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21113000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Kleidung",
+      "Bekleidung"
+    ],
+    "terms_en_ss": [
+      "Clothing",
+      "Clothes"
+    ],
+    "broader_ss": [
+      "#concept_21110000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21113020",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Männerbekleidung",
+      "Herrenbekleidung"
+    ],
+    "terms_en_ss": [
+      "Men's clothes",
+      "Men's wear"
+    ],
+    "broader_ss": [
+      "#concept_21113000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21113021",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Männer/Oberbekleidung",
+      "Herren-Oberbekleidung"
+    ],
+    "terms_en_ss": [
+      "Men's upper clothes",
+      "Men's upper clothing"
+    ],
+    "broader_ss": [
+      "#concept_21113020"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21113022",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Männer/Unterbekleidung",
+      "Männer/Unterkleider"
+    ],
+    "terms_en_ss": [
+      "Men's underclothes",
+      "Men's underclothing"
+    ],
+    "broader_ss": [
+      "#concept_21113020"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21113023",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Männerbekleidung/Zubehör",
+      "Herrenkleidung/Zubehör"
+    ],
+    "terms_en_ss": [
+      "Men's clothing accessories",
+      "Menswear accessories"
+    ],
+    "broader_ss": [
+      "#concept_21113020"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21113030",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Frauenbekleidung",
+      "Damenbekleidung"
+    ],
+    "terms_en_ss": [
+      "Women's clothes",
+      "Women's wear"
+    ],
+    "broader_ss": [
+      "#concept_21113000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21113031",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Frauen/Oberbekleidung",
+      "Damen-Oberbekleidung"
+    ],
+    "terms_en_ss": [
+      "Women's upper clothes",
+      "Women's outerwear"
+    ],
+    "broader_ss": [
+      "#concept_21113030"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21113032",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Frauen/Unterbekleidung",
+      "Frauen/Unterkleidung"
+    ],
+    "terms_en_ss": [
+      "Women's underclothes",
+      "Women's underclothing"
+    ],
+    "broader_ss": [
+      "#concept_21113030"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21113033",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Frauenbekleidung/Zubehör",
+      "Damenbekleidung/Zubehör"
+    ],
+    "terms_en_ss": [
+      "Women's clothing accessories",
+      "Women's wear accessories"
+    ],
+    "broader_ss": [
+      "#concept_21113030"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21113040",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Kopfbedeckungen"
+    ],
+    "terms_en_ss": [
+      "Headgear",
+      "Headwear"
+    ],
+    "broader_ss": [
+      "#concept_21113000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21113050",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Schuhe",
+      "Schuhwerk"
+    ],
+    "terms_en_ss": [
+      "Shoes",
+      "Footwear"
+    ],
+    "broader_ss": [
+      "#concept_21113000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21113060",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Schmuck/Verzierung",
+      "Accessoires"
+    ],
+    "terms_en_ss": [
+      "Jewelry/Adornment",
+      "Jewellery/Adornment"
+    ],
+    "broader_ss": [
+      "#concept_21113000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21113061",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Schmuck/Verzierung/Namen"
+    ],
+    "terms_en_ss": [
+      "Jewelry/Adornment/Names"
+    ],
+    "broader_ss": [
+      "#concept_21113060"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21113070",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Stoffe/Leder/Pelze"
+    ],
+    "terms_en_ss": [
+      "Fabrics/Leather/Furs"
+    ],
+    "broader_ss": [
+      "#concept_23305500",
+      "#concept_21113000",
+      "#concept_23305900"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21113080",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Hygiene/Kosmetik/Haarpflege",
+      "Sauberkeit"
+    ],
+    "terms_en_ss": [
+      "Hygiene/Cosmetics/Hair care",
+      "Cleanness"
+    ],
+    "broader_ss": [
+      "#concept_21113000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_21113100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Trachten/Kostüme/Uniformen"
+    ],
+    "terms_en_ss": [
+      "Traditional costumes/Uniforms"
+    ],
+    "broader_ss": [
+      "#concept_21113000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22000000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Geist/Seele"
+    ],
+    "terms_en_ss": [
+      "Mental activity/Spirit/Soul"
+    ],
+    "broader_ss": [
+      "#concept_20000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22200000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Wahrnehmung",
+      "Perzeption"
+    ],
+    "terms_en_ss": [
+      "Perception"
+    ],
+    "broader_ss": [
+      "#concept_22000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22220000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Übersinnliche Wahrnehmung"
+    ],
+    "terms_en_ss": [
+      "Extrasensory perception"
+    ],
+    "broader_ss": [
+      "#concept_22200000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22300000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Bewusstsein"
+    ],
+    "terms_en_ss": [
+      "Consciousness"
+    ],
+    "broader_ss": [
+      "#concept_22000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22400000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Erinnerung",
+      "Erinnerungsvermögen"
+    ],
+    "terms_en_ss": [
+      "Memory"
+    ],
+    "broader_ss": [
+      "#concept_22000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22500000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Einbildung",
+      "Fantasie"
+    ],
+    "terms_en_ss": [
+      "Imagination",
+      "Fantasy"
+    ],
+    "broader_ss": [
+      "#concept_22000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22600000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Denken"
+    ],
+    "terms_en_ss": [
+      "Thinking"
+    ],
+    "broader_ss": [
+      "#concept_22000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22620000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Anschauung/Begriff/Vorstellung",
+      "Anschauung/Begriff/Vorstellung/Denkprozesse"
+    ],
+    "terms_en_ss": [
+      "Observation/Conceptualization/Idea",
+      "Observation/Conceptualisation/Idea/Thought processes"
+    ],
+    "broader_ss": [
+      "#concept_22600000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22630000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Gedankengang"
+    ],
+    "terms_en_ss": [
+      "Thought process"
+    ],
+    "broader_ss": [
+      "#concept_22600000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22640000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Urteilen/Schließen",
+      "Erkenntnis"
+    ],
+    "terms_en_ss": [
+      "Judgment/Conclusion",
+      "Understanding"
+    ],
+    "broader_ss": [
+      "#concept_22600000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22641000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Beweis/Zustimmung/Widerspruch",
+      "Dankbarkeit"
+    ],
+    "terms_en_ss": [
+      "Proof/Agreement/Objection",
+      "Gratitude"
+    ],
+    "broader_ss": [
+      "#concept_22640000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22642000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Wahrheit/Irrtum/Lüge/Täuschung",
+      "Bekenntnis"
+    ],
+    "terms_en_ss": [
+      "Truth/Error/Lie/Deception",
+      "Confession"
+    ],
+    "broader_ss": [
+      "#concept_22640000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22650000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Aufmerksamkeit",
+      "Verständnis"
+    ],
+    "terms_en_ss": [
+      "Attention",
+      "Comprehension"
+    ],
+    "broader_ss": [
+      "#concept_22600000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22660000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Wissen",
+      "Gedächtnis"
+    ],
+    "terms_en_ss": [
+      "Knowledge",
+      "Experience"
+    ],
+    "broader_ss": [
+      "#concept_22600000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22700000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Gemütszustand/Gefühl",
+      "Empfindung"
+    ],
+    "terms_en_ss": [
+      "State of mind/Feeling"
+    ],
+    "broader_ss": [
+      "#concept_22000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22702000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Gemütszustände",
+      "Gefühlslagen"
+    ],
+    "terms_en_ss": [
+      "States of mind",
+      "Mental state"
+    ],
+    "broader_ss": [
+      "#concept_22700000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22702010",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Gefallen/Missfallen"
+    ],
+    "terms_en_ss": [
+      "Pleasure/Displeasure"
+    ],
+    "broader_ss": [
+      "#concept_22702000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22702020",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Glückseligkeit/Unglück",
+      "Glücksgefühl"
+    ],
+    "terms_en_ss": [
+      "Happiness/Unhappiness",
+      "Luck"
+    ],
+    "broader_ss": [
+      "#concept_22702000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22702030",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Freude/Leid",
+      "Elend"
+    ],
+    "terms_en_ss": [
+      "Joy/Affliction",
+      "Misery"
+    ],
+    "broader_ss": [
+      "#concept_22702000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22702040",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Sorge/Unbeschwertheit",
+      "Angst"
+    ],
+    "terms_en_ss": [
+      "Worry/Lightheartedness",
+      "Fear"
+    ],
+    "broader_ss": [
+      "#concept_22702000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22702050",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Langeweile"
+    ],
+    "terms_en_ss": [
+      "Boredom"
+    ],
+    "broader_ss": [
+      "#concept_22702000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22702060",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Schmerz",
+      "Pein"
+    ],
+    "terms_en_ss": [
+      "Pain",
+      "Agony"
+    ],
+    "broader_ss": [
+      "#concept_22702000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22702070",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Scherz/Ernst",
+      "Spiel"
+    ],
+    "terms_en_ss": [
+      "Joke/Seriousness",
+      "Game"
+    ],
+    "broader_ss": [
+      "#concept_22702000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22702080",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Ruhe/Unruhe",
+      "Friede/Unfriede"
+    ],
+    "terms_en_ss": [
+      "Calmness/Restlessness",
+      "Peace/Strife"
+    ],
+    "broader_ss": [
+      "#concept_22702000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22702090",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Sicherheit/Zweifel",
+      "Glaube/Unglaube"
+    ],
+    "terms_en_ss": [
+      "Certainty/Doubt",
+      "Faith/Faithlessness"
+    ],
+    "broader_ss": [
+      "#concept_22702000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22702100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Erwartung/Enttäuschung/Befriedigung"
+    ],
+    "terms_en_ss": [
+      "Expectation/Disappointment/Satisfaction"
+    ],
+    "broader_ss": [
+      "#concept_22702000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22702110",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Hoffnung/Verzweiflung",
+      "Jammer"
+    ],
+    "terms_en_ss": [
+      "Hope/Despair",
+      "Lamentation"
+    ],
+    "broader_ss": [
+      "#concept_22702000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22702120",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Geduld/Ungeduld/Resignation",
+      "Erdulden"
+    ],
+    "terms_en_ss": [
+      "Patience/Impatience/Resignation",
+      "Endure"
+    ],
+    "broader_ss": [
+      "#concept_22702000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22702130",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Verwunderung",
+      "Erstaunen"
+    ],
+    "terms_en_ss": [
+      "Amazement",
+      "Surprise"
+    ],
+    "broader_ss": [
+      "#concept_22702000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22702140",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Wahnsinn",
+      "Tobsucht"
+    ],
+    "terms_en_ss": [
+      "Insanity",
+      "Madness"
+    ],
+    "broader_ss": [
+      "#concept_22702000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22702150",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Gewohnheit",
+      "Üblich"
+    ],
+    "terms_en_ss": [
+      "Habit",
+      "Usual"
+    ],
+    "broader_ss": [
+      "#concept_22702000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22703000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Selbstbezogene Gefühle"
+    ],
+    "terms_en_ss": [
+      "Self-contained feelings"
+    ],
+    "broader_ss": [
+      "#concept_22700000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22704000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Nach außen bezogene Gefühle"
+    ],
+    "terms_en_ss": [
+      "Feelings towards others"
+    ],
+    "broader_ss": [
+      "#concept_22700000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22704010",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Liebe/Zuneigung/Abneigung/Gleichgültigkeit"
+    ],
+    "terms_en_ss": [
+      "Love/Affection/Disaffection/Indifference"
+    ],
+    "broader_ss": [
+      "#concept_22704000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22704020",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Vertrauen/Misstrauen"
+    ],
+    "terms_en_ss": [
+      "Trust/Distrust"
+    ],
+    "broader_ss": [
+      "#concept_22704000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22704030",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Ergebenheit/Starrsinn",
+      "Bündnis/Widerstand"
+    ],
+    "terms_en_ss": [
+      "Submissiveness/Stubbornness",
+      "Alliance/Resistance"
+    ],
+    "broader_ss": [
+      "#concept_22704000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22704040",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Mitleid/Härte",
+      "Milde/Strenge"
+    ],
+    "terms_en_ss": [
+      "Compassion/Hardness",
+      "Mercy/Merciless"
+    ],
+    "broader_ss": [
+      "#concept_22704000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22704050",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Trost"
+    ],
+    "terms_en_ss": [
+      "Consolation"
+    ],
+    "broader_ss": [
+      "#concept_22704000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22704060",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Neid/Wohlwollen/Hass",
+      "Gunst"
+    ],
+    "terms_en_ss": [
+      "Envy/Goodwill/Hatred",
+      "Favour"
+    ],
+    "broader_ss": [
+      "#concept_22704000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22704070",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Respekt/Bewunderung",
+      "Verehrung"
+    ],
+    "terms_en_ss": [
+      "Respect/Admiration",
+      "Adoration"
+    ],
+    "broader_ss": [
+      "#concept_22704000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22704080",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Verachtung",
+      "Beschimpfung"
+    ],
+    "terms_en_ss": [
+      "Contempt",
+      "Villain"
+    ],
+    "broader_ss": [
+      "#concept_22704000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22704090",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Dankbarkeit/Undankbarkeit",
+      "Belohnung"
+    ],
+    "terms_en_ss": [
+      "Gratitude/Ingratitude",
+      "Reward"
+    ],
+    "broader_ss": [
+      "#concept_22704000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22704100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Erregung/Beruhigung",
+      "Toben"
+    ],
+    "terms_en_ss": [
+      "Agitation/Calmness",
+      "Irritate"
+    ],
+    "broader_ss": [
+      "#concept_22704000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22705000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Übermäßige Gefühle",
+      "Begierde"
+    ],
+    "terms_en_ss": [
+      "Excessive feelings",
+      "Desire"
+    ],
+    "broader_ss": [
+      "#concept_22700000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22705100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Enthusiasmus"
+    ],
+    "terms_en_ss": [
+      "Enthusiasm"
+    ],
+    "broader_ss": [
+      "#concept_22705000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22705200",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Wut",
+      "Aggression"
+    ],
+    "terms_en_ss": [
+      "Rage",
+      "Fury"
+    ],
+    "broader_ss": [
+      "#concept_22705000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22705300",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Abscheu",
+      "Ekel"
+    ],
+    "terms_en_ss": [
+      "Abhorrence",
+      "Repulsivness"
+    ],
+    "broader_ss": [
+      "#concept_22705000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22705400",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Angst/Mut",
+      "Schrecken"
+    ],
+    "terms_en_ss": [
+      "Anxiety/Courage",
+      "Horror"
+    ],
+    "broader_ss": [
+      "#concept_22705000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22706000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Ästhetisches Empfinden"
+    ],
+    "terms_en_ss": [
+      "Aesthetic sensation",
+      "Sense of aesthetics"
+    ],
+    "broader_ss": [
+      "#concept_22700000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22707000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Moralisches Empfinden"
+    ],
+    "terms_en_ss": [
+      "Moral sense"
+    ],
+    "broader_ss": [
+      "#concept_22700000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22708000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Religiöses Empfinden"
+    ],
+    "terms_en_ss": [
+      "Religious feelings"
+    ],
+    "broader_ss": [
+      "#concept_22700000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22709000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Ursachen der Gefühle",
+      "Ursachen der Empfindungen"
+    ],
+    "terms_en_ss": [
+      "Causes of feelings",
+      "Causes of sentiments"
+    ],
+    "broader_ss": [
+      "#concept_22700000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22710000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Gefühlsäußerungen"
+    ],
+    "terms_en_ss": [
+      "Expressions of feelings",
+      "Expressions of sentiments"
+    ],
+    "broader_ss": [
+      "#concept_22700000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22800000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Absicht/Wollen",
+      "Vorsatz"
+    ],
+    "terms_en_ss": [
+      "Intention/Want",
+      "Claim"
+    ],
+    "broader_ss": [
+      "#concept_22000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22810000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Wunsch",
+      "Bitte"
+    ],
+    "terms_en_ss": [
+      "Wish",
+      "Need"
+    ],
+    "broader_ss": [
+      "#concept_22800000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22820000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Wille",
+      "Bereitschaft"
+    ],
+    "terms_en_ss": [
+      "Will",
+      "Willingness"
+    ],
+    "broader_ss": [
+      "#concept_22800000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22822000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Zweck",
+      "Ziel"
+    ],
+    "terms_en_ss": [
+      "Purpose",
+      "Goal"
+    ],
+    "broader_ss": [
+      "#concept_22820000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22823000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Beweggrund",
+      "Motiv"
+    ],
+    "terms_en_ss": [
+      "Motivation",
+      "Motive"
+    ],
+    "broader_ss": [
+      "#concept_22820000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22824000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Abwägen/Zögern",
+      "Trägheit"
+    ],
+    "terms_en_ss": [
+      "Pondering/Hesitation",
+      "Laziness"
+    ],
+    "broader_ss": [
+      "#concept_22820000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22825000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Entscheidung/Annahme/Aufgabe",
+      "Resignation"
+    ],
+    "terms_en_ss": [
+      "Decision/Acceptance/Resignation"
+    ],
+    "broader_ss": [
+      "#concept_22820000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22826000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Willensausübung auf andere"
+    ],
+    "terms_en_ss": [
+      "Enforcement of will upon others"
+    ],
+    "broader_ss": [
+      "#concept_22820000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22826100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Autorität/Anordnung",
+      "Befehl"
+    ],
+    "terms_en_ss": [
+      "Authority/Command",
+      "Order"
+    ],
+    "broader_ss": [
+      "#concept_22826000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22826200",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Gehorsam/Ungehorsam",
+      "Folgen/Widersetzen"
+    ],
+    "terms_en_ss": [
+      "Obedience/Disobedience",
+      "Follow/Oppose"
+    ],
+    "broader_ss": [
+      "#concept_22826000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22826300",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Erlaubnis/Verbot",
+      "Gebot"
+    ],
+    "terms_en_ss": [
+      "Permission/Prohibition",
+      "Commandment"
+    ],
+    "broader_ss": [
+      "#concept_22826000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22826400",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Versprechen",
+      "Gelöbnis"
+    ],
+    "terms_en_ss": [
+      "Promise",
+      "Vow"
+    ],
+    "broader_ss": [
+      "#concept_22826000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22826500",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Gewalt/Strafe/Vergebung",
+      "Gnädig/Gnadenlos"
+    ],
+    "terms_en_ss": [
+      "Violence/Punishment/Forgiveness",
+      "Merciful/Merciless"
+    ],
+    "broader_ss": [
+      "#concept_22826000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22830000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Aktion",
+      "Tun"
+    ],
+    "terms_en_ss": [
+      "Action",
+      "Doing"
+    ],
+    "broader_ss": [
+      "#concept_22800000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22831000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Voraussetzungen zur Aktion"
+    ],
+    "terms_en_ss": [
+      "Prerequisite for action",
+      "Conditions for action"
+    ],
+    "broader_ss": [
+      "#concept_22830000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22831100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Fähigkeiten",
+      "Fertigkeiten"
+    ],
+    "terms_en_ss": [
+      "Capabilities",
+      "Skills"
+    ],
+    "broader_ss": [
+      "#concept_22831000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22831200",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Art und Weise der Handlung"
+    ],
+    "terms_en_ss": [
+      "Way of action",
+      "Type of action"
+    ],
+    "broader_ss": [
+      "#concept_22831000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22831300",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Grund der Aktion",
+      "Grund der Handlung"
+    ],
+    "terms_en_ss": [
+      "Reason for action",
+      "Causality"
+    ],
+    "broader_ss": [
+      "#concept_22831000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22831400",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Zielrichtung der Aktion",
+      "Zielrichtung der Handlung"
+    ],
+    "terms_en_ss": [
+      "Direction of action"
+    ],
+    "broader_ss": [
+      "#concept_22831000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22831500",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Handlungsmittel",
+      "Mittel der Aktion"
+    ],
+    "terms_en_ss": [
+      "Means of action"
+    ],
+    "broader_ss": [
+      "#concept_22831000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22831600",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Möglichkeit"
+    ],
+    "terms_en_ss": [
+      "Possibility"
+    ],
+    "broader_ss": [
+      "#concept_22831000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22831700",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Planung",
+      "List"
+    ],
+    "terms_en_ss": [
+      "Planning",
+      "Plan"
+    ],
+    "broader_ss": [
+      "#concept_22831000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22831800",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Vorbereitung"
+    ],
+    "terms_en_ss": [
+      "Preparation"
+    ],
+    "broader_ss": [
+      "#concept_22831000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22831900",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Vorteil/Nachteil",
+      "Heil/Schaden"
+    ],
+    "terms_en_ss": [
+      "Advantage/Disadvantage",
+      "Salvation/Damage"
+    ],
+    "broader_ss": [
+      "#concept_22831000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22832000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Verwirklichung",
+      "Ausführung"
+    ],
+    "terms_en_ss": [
+      "Realization",
+      "Execution"
+    ],
+    "broader_ss": [
+      "#concept_22830000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22833000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Unterstützung/Hinderung"
+    ],
+    "terms_en_ss": [
+      "Support/Obstruction"
+    ],
+    "broader_ss": [
+      "#concept_22830000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22834000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Ergebnis der Aktion",
+      "Ergebnis der Handlung"
+    ],
+    "terms_en_ss": [
+      "Result of action"
+    ],
+    "broader_ss": [
+      "#concept_22830000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22835000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Aktion im Urteil anderer",
+      "Handlung im Urteil anderer"
+    ],
+    "terms_en_ss": [
+      "Action as viewed by others"
+    ],
+    "broader_ss": [
+      "#concept_22830000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22900000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Moral",
+      "Christenlehre"
+    ],
+    "terms_en_ss": [
+      "Ethics",
+      "Doctrine of god"
+    ],
+    "broader_ss": [
+      "#concept_22000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22910000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Pflicht",
+      "Verantwortung"
+    ],
+    "terms_en_ss": [
+      "Obligation",
+      "Responsibility"
+    ],
+    "broader_ss": [
+      "#concept_22900000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22920000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Moralische Eigenschaften/Charaktereigenschaften",
+      "Charakterzug"
+    ],
+    "terms_en_ss": [
+      "Moral traits/Character traits",
+      "Trait of character"
+    ],
+    "broader_ss": [
+      "#concept_22900000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_22930000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Ehre/Unehre",
+      "Reputation"
+    ],
+    "terms_en_ss": [
+      "Honor/Dishonor",
+      "Reputation"
+    ],
+    "broader_ss": [
+      "#concept_22900000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23000000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Mensch als soziales Wesen"
+    ],
+    "terms_en_ss": [
+      "Human as a social being"
+    ],
+    "broader_ss": [
+      "#concept_20000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23100000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Gesellschaftliches Leben"
+    ],
+    "terms_en_ss": [
+      "General social phenomena"
+    ],
+    "broader_ss": [
+      "#concept_23000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23110000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Gesellschaftliche Gruppen"
+    ],
+    "terms_en_ss": [
+      "Social groupings"
+    ],
+    "broader_ss": [
+      "#concept_23100000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23111000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Größte Gruppierungen"
+    ],
+    "terms_en_ss": [
+      "Largest groupings"
+    ],
+    "broader_ss": [
+      "#concept_23110000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23111100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Ethnische Einheiten",
+      "Ethnie"
+    ],
+    "terms_en_ss": [
+      "Ethnic unities",
+      "Ethnic group"
+    ],
+    "broader_ss": [
+      "#concept_23111000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23111200",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Ethn. Einheit/Volk/Stamm/Namen"
+    ],
+    "terms_en_ss": [
+      "Ethnic Community/People/Tribe/Names"
+    ],
+    "broader_ss": [
+      "#concept_23111000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23111300",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Fantastische Ethnie/Namen"
+    ],
+    "terms_en_ss": [
+      "Fantastic Ethnic Community/People/Tribe/Names"
+    ],
+    "broader_ss": [
+      "#concept_23111000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23112000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Ehe/Familie"
+    ],
+    "terms_en_ss": [
+      "Matrimony/Family"
+    ],
+    "broader_ss": [
+      "#concept_23110000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23112100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Familie/Herkunft",
+      "Abstammung"
+    ],
+    "terms_en_ss": [
+      "Family/Ancestry",
+      "Descent"
+    ],
+    "broader_ss": [
+      "#concept_23112000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23112200",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Ehe"
+    ],
+    "terms_en_ss": [
+      "Marriage"
+    ],
+    "broader_ss": [
+      "#concept_23112000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23112300",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Verwandtschaft"
+    ],
+    "terms_en_ss": [
+      "Kinship"
+    ],
+    "broader_ss": [
+      "#concept_23112000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23112400",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Taufe"
+    ],
+    "terms_en_ss": [
+      "Baptism"
+    ],
+    "broader_ss": [
+      "#concept_23112000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23112500",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Personennamen/Familiennamen"
+    ],
+    "terms_en_ss": [
+      "Given and Family Names"
+    ],
+    "broader_ss": [
+      "#concept_23112000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23112501",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Sprechende Eigennamen/Namen"
+    ],
+    "terms_en_ss": [
+      "Meaningful/Descreptive Names/Names"
+    ],
+    "broader_ss": [
+      "#concept_23112500"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23112600",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Bestattung",
+      "Beerdigung"
+    ],
+    "terms_en_ss": [
+      "Funeral/Cremation",
+      "Death"
+    ],
+    "broader_ss": [
+      "#concept_23112000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23112700",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Witwen/Waisen"
+    ],
+    "terms_en_ss": [
+      "Widows/Orphans"
+    ],
+    "broader_ss": [
+      "#concept_23112000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23113000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Erziehung/Bildung/Allgemein"
+    ],
+    "terms_en_ss": [
+      "Upbringing/Education/General"
+    ],
+    "broader_ss": [
+      "#concept_23110000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23113200",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Formelle Bildung"
+    ],
+    "terms_en_ss": [
+      "Formal education"
+    ],
+    "broader_ss": [
+      "#concept_23113000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23120000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Kommunikation/Sprache"
+    ],
+    "terms_en_ss": [
+      "Communication/Language"
+    ],
+    "broader_ss": [
+      "#concept_23100000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23121000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Mündliche Kommunikation"
+    ],
+    "terms_en_ss": [
+      "Oral communication"
+    ],
+    "broader_ss": [
+      "#concept_23120000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23121100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Eigenschaften der stimmlichen Äußerung",
+      "Mängel der stimmlichen Äußerung"
+    ],
+    "terms_en_ss": [
+      "Attributes of vocal expression",
+      "Deficiencies in vocal expression"
+    ],
+    "broader_ss": [
+      "#concept_23121000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23121200",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Stimmlicher Ausdruck",
+      "Mündlicher Ausdruck"
+    ],
+    "terms_en_ss": [
+      "Vocal expression",
+      "Oral expression"
+    ],
+    "broader_ss": [
+      "#concept_23121000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23122000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Schriftliche Kommunikation"
+    ],
+    "terms_en_ss": [
+      "Written communication"
+    ],
+    "broader_ss": [
+      "#concept_23120000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23122200",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Formen der schriftlichen Kommunikation"
+    ],
+    "terms_en_ss": [
+      "Forms of written communication"
+    ],
+    "broader_ss": [
+      "#concept_23122000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23123000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Einzelsprachen",
+      "Fremdsprachen"
+    ],
+    "terms_en_ss": [
+      "Individual languages",
+      "Foreign languages"
+    ],
+    "broader_ss": [
+      "#concept_23120000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23123100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Lateinisch",
+      "Latein"
+    ],
+    "terms_en_ss": [
+      "Latin"
+    ],
+    "broader_ss": [
+      "#concept_23123000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23123200",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Französisch"
+    ],
+    "terms_en_ss": [
+      "French"
+    ],
+    "broader_ss": [
+      "#concept_23123000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23123300",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Arabisch"
+    ],
+    "terms_en_ss": [
+      "Arabic"
+    ],
+    "broader_ss": [
+      "#concept_23123000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23123400",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Hebräisch"
+    ],
+    "terms_en_ss": [
+      "Hebrew"
+    ],
+    "broader_ss": [
+      "#concept_23123000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23123500",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Griechisch"
+    ],
+    "terms_en_ss": [
+      "Greek"
+    ],
+    "broader_ss": [
+      "#concept_23123000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23123600",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Slawisch"
+    ],
+    "terms_en_ss": [
+      "Slavic"
+    ],
+    "broader_ss": [
+      "#concept_23123000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23123610",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Tschechisch"
+    ],
+    "terms_en_ss": [
+      "Czech"
+    ],
+    "broader_ss": [
+      "#concept_23123600"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23123700",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Persisch"
+    ],
+    "terms_en_ss": [
+      "Persian"
+    ],
+    "broader_ss": [
+      "#concept_23123000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23123800",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Italienisch"
+    ],
+    "terms_en_ss": [
+      "Italian"
+    ],
+    "broader_ss": [
+      "#concept_23123000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23123900",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Spanisch"
+    ],
+    "terms_en_ss": [
+      "Spanish"
+    ],
+    "broader_ss": [
+      "#concept_23123000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23123901",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Ungarisch"
+    ],
+    "terms_en_ss": [
+      "Hungarian"
+    ],
+    "broader_ss": [
+      "#concept_23123000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23123902",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Rätoromanisch"
+    ],
+    "terms_en_ss": [
+      "Rhaeto-Romanic"
+    ],
+    "broader_ss": [
+      "#concept_23123000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23123903",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Englisch"
+    ],
+    "terms_en_ss": [
+      "English"
+    ],
+    "broader_ss": [
+      "#concept_23123000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23123904",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Phönizisch-Punisch"
+    ],
+    "terms_en_ss": [
+      "Phoenician-Punic"
+    ],
+    "broader_ss": [
+      "#concept_23123000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23123905",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Aramäisch"
+    ],
+    "terms_en_ss": [
+      "Aramaic"
+    ],
+    "broader_ss": [
+      "#concept_23123000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23123909",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Jiddisch"
+    ],
+    "terms_en_ss": [
+      "Yiddish"
+    ],
+    "broader_ss": [
+      "#concept_23123000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23123910",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Rotwelsch"
+    ],
+    "terms_en_ss": [
+      "Rotwelsch"
+    ],
+    "broader_ss": [
+      "#concept_23123000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23124000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Benennung"
+    ],
+    "terms_en_ss": [
+      "Denomination",
+      "Naming"
+    ],
+    "broader_ss": [
+      "#concept_23120000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23130000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Gesellschaftliche Beziehungen im Allgemeinen"
+    ],
+    "terms_en_ss": [
+      "Social relations in general",
+      "General social relations"
+    ],
+    "broader_ss": [
+      "#concept_23100000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23132000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Etikette/Zeremoniell"
+    ],
+    "terms_en_ss": [
+      "Etiquette/Ceremonies"
+    ],
+    "broader_ss": [
+      "#concept_23130000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23133000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Hilfeleistung/Widerstand",
+      "Dienst"
+    ],
+    "terms_en_ss": [
+      "Assistance/Resistance",
+      "Service"
+    ],
+    "broader_ss": [
+      "#concept_23130000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23134000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Frauendienst"
+    ],
+    "terms_en_ss": [
+      "Service for the ladies"
+    ],
+    "broader_ss": [
+      "#concept_23130000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23135000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Feste/Spiel/Unterhaltung"
+    ],
+    "terms_en_ss": [
+      "Festivities/Games/Entertainment"
+    ],
+    "broader_ss": [
+      "#concept_23130000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23135100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Festlichkeiten/Feiern",
+      "Feier"
+    ],
+    "terms_en_ss": [
+      "Festivities/Celebrate",
+      "Celebration"
+    ],
+    "broader_ss": [
+      "#concept_23135000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23135200",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Spiel/Zerstreuung",
+      "Zeitvertreib"
+    ],
+    "terms_en_ss": [
+      "Games/Distraction",
+      "Pastime"
+    ],
+    "broader_ss": [
+      "#concept_23135000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23135210",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Schachspiel"
+    ],
+    "terms_en_ss": [
+      "Chess"
+    ],
+    "broader_ss": [
+      "#concept_23135200"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23135220",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Spielzeug",
+      "Spielsachen"
+    ],
+    "terms_en_ss": [
+      "Toys"
+    ],
+    "broader_ss": [
+      "#concept_23135200"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23135230",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Andere Spiele"
+    ],
+    "terms_en_ss": [
+      "Other games"
+    ],
+    "broader_ss": [
+      "#concept_23135200"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23135300",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Sport"
+    ],
+    "terms_en_ss": [
+      "Sports"
+    ],
+    "broader_ss": [
+      "#concept_23135000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23135400",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Sitten/Gebräuche",
+      "Bräuche"
+    ],
+    "terms_en_ss": [
+      "Manners/Customs",
+      "Traditions"
+    ],
+    "broader_ss": [
+      "#concept_23135000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23200000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Ritterwesen im Allgemeinen",
+      "Ritterlichkeit"
+    ],
+    "terms_en_ss": [
+      "Knighthood in general",
+      "Chivalry"
+    ],
+    "broader_ss": [
+      "#concept_23000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23220000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Pferd/Reiten"
+    ],
+    "terms_en_ss": [
+      "Horse/Riding"
+    ],
+    "broader_ss": [
+      "#concept_14012000",
+      "#concept_23200000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23221000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Pferd und Reiten/Namen"
+    ],
+    "terms_en_ss": [
+      "Horse and Riding/Names"
+    ],
+    "broader_ss": [
+      "#concept_23220000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23230000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Waffenhandwerk"
+    ],
+    "terms_en_ss": [
+      "Arms craft",
+      "Weaponry"
+    ],
+    "broader_ss": [
+      "#concept_23200000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23231000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Waffen"
+    ],
+    "terms_en_ss": [
+      "Weapons",
+      "Arms"
+    ],
+    "broader_ss": [
+      "#concept_23230000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23231100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Waffen/Namen"
+    ],
+    "terms_en_ss": [
+      "Weapons/Names"
+    ],
+    "broader_ss": [
+      "#concept_23231000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23231200",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Kampftechnik/Waffentechnik"
+    ],
+    "terms_en_ss": [
+      "Fighting technique/Weapon skills"
+    ],
+    "broader_ss": [
+      "#concept_23240000",
+      "#concept_23230000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23232000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Rüstung"
+    ],
+    "terms_en_ss": [
+      "Armor",
+      "Armour"
+    ],
+    "broader_ss": [
+      "#concept_23230000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23233000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Rüstung/Namen"
+    ],
+    "terms_en_ss": [
+      "Armor/Names"
+    ],
+    "broader_ss": [
+      "#concept_23230000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23240000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Kriegswesen/Kampf/Gewalt"
+    ],
+    "terms_en_ss": [
+      "Warfare/Battle/Violence"
+    ],
+    "broader_ss": [
+      "#concept_23200000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23241000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Kriegswesen/Kampf/Namen"
+    ],
+    "terms_en_ss": [
+      "Warfare/Fighting/Names"
+    ],
+    "broader_ss": [
+      "#concept_23240000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23242000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Heerfahrt",
+      "Kampagne"
+    ],
+    "terms_en_ss": [
+      "Military expedition",
+      "Military campaign"
+    ],
+    "broader_ss": [
+      "#concept_23240000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23243000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Schlacht",
+      "Kampf"
+    ],
+    "terms_en_ss": [
+      "Battle",
+      "Fight"
+    ],
+    "broader_ss": [
+      "#concept_23240000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23244000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Aventiure",
+      "Abenteuer"
+    ],
+    "terms_en_ss": [
+      "Adventure/Quest"
+    ],
+    "broader_ss": [
+      "#concept_23240000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23245000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Belagerung"
+    ],
+    "terms_en_ss": [
+      "Siege"
+    ],
+    "broader_ss": [
+      "#concept_23240000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23246000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Zweikampf",
+      "Duell"
+    ],
+    "terms_en_ss": [
+      "Duel"
+    ],
+    "broader_ss": [
+      "#concept_23240000",
+      "#concept_23260000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23250000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Burg",
+      "Befestigung"
+    ],
+    "terms_en_ss": [
+      "Castle",
+      "Fort"
+    ],
+    "broader_ss": [
+      "#concept_23309020",
+      "#concept_23200000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23251000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Burg/Äußeres",
+      "Feste/Äußeres"
+    ],
+    "terms_en_ss": [
+      "Castle/Exterior",
+      "Fort/Exterior"
+    ],
+    "broader_ss": [
+      "#concept_23250000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23252000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Burg/Inneres",
+      "Befestigung/Inneres"
+    ],
+    "terms_en_ss": [
+      "Castle/Interior",
+      "Fortress/Interior"
+    ],
+    "broader_ss": [
+      "#concept_23250000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23253000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Burg/Namen"
+    ],
+    "terms_en_ss": [
+      "Castle/Names"
+    ],
+    "broader_ss": [
+      "#concept_23250000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23254000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Fantastische Burg/Namen"
+    ],
+    "terms_en_ss": [
+      "Fantastic Castle/Names"
+    ],
+    "broader_ss": [
+      "#concept_23250000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23260000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Turnierwesen",
+      "Kampfspiel"
+    ],
+    "terms_en_ss": [
+      "Tournament",
+      "Tourney"
+    ],
+    "broader_ss": [
+      "#concept_23200000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23261000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Turnier/Organisation"
+    ],
+    "terms_en_ss": [
+      "Tournament/Organization",
+      "Tournament/Organisation"
+    ],
+    "broader_ss": [
+      "#concept_23260000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23262000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Turnier/Schauplatz"
+    ],
+    "terms_en_ss": [
+      "Tournament/Location"
+    ],
+    "broader_ss": [
+      "#concept_23260000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23263000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Turnier/Kampfformen",
+      "Turnier/Kampfereignisse"
+    ],
+    "terms_en_ss": [
+      "Tournament/Forms of combat",
+      "Tournament/Fighting events"
+    ],
+    "broader_ss": [
+      "#concept_23260000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23264000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Turnier/Rituale"
+    ],
+    "terms_en_ss": [
+      "Tournament/Rituals"
+    ],
+    "broader_ss": [
+      "#concept_23260000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23300000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Welt der Arbeit im Allgemeinen",
+      "Arbeitswelt im Allgemeinen"
+    ],
+    "terms_en_ss": [
+      "Work in general",
+      "Labor in general"
+    ],
+    "broader_ss": [
+      "#concept_23000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23302000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Jagd/Fischerei"
+    ],
+    "terms_en_ss": [
+      "Hunting/Fishing",
+      "Hunt/Fishery"
+    ],
+    "broader_ss": [
+      "#concept_23300000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23302200",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Jagd/Fischerei/Ausrüstung",
+      "Jagd/Fischerei/Geräte"
+    ],
+    "terms_en_ss": [
+      "Hunting/Fishing/Gear",
+      "Hunting/Fishing/Weapons"
+    ],
+    "broader_ss": [
+      "#concept_23302000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23302300",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Jagd/Fischerei/Gebräuche/Rituale",
+      "Jagd/Fischerei/Bräuche"
+    ],
+    "terms_en_ss": [
+      "Hunting/Fishing/Customs/Rituals",
+      "Hunt/Fishery/Customs/Rituals"
+    ],
+    "broader_ss": [
+      "#concept_23302000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23302500",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Fischzucht"
+    ],
+    "terms_en_ss": [
+      "Fish farming",
+      "Fish breeding"
+    ],
+    "broader_ss": [
+      "#concept_23302000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23303000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Landwirtschaft"
+    ],
+    "terms_en_ss": [
+      "Farming",
+      "Husbandry"
+    ],
+    "broader_ss": [
+      "#concept_23300000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23303010",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Landwirtschaft/Namen"
+    ],
+    "terms_en_ss": [
+      "Farming and Husbandry/Names"
+    ],
+    "broader_ss": [
+      "#concept_23303000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23303100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Bauernhof",
+      "Gutshof"
+    ],
+    "terms_en_ss": [
+      "Farm",
+      "Grange"
+    ],
+    "broader_ss": [
+      "#concept_23309020",
+      "#concept_23303000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23303110",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Viehzucht/Viehhaltung"
+    ],
+    "terms_en_ss": [
+      "Stock farming",
+      "Livestock breeding"
+    ],
+    "broader_ss": [
+      "#concept_14012000",
+      "#concept_23303100"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23303120",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Milchwirtschaft"
+    ],
+    "terms_en_ss": [
+      "Dairy farming"
+    ],
+    "broader_ss": [
+      "#concept_23303100"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23303140",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Gehöft/Namen"
+    ],
+    "terms_en_ss": [
+      "Farmstead/Names"
+    ],
+    "broader_ss": [
+      "#concept_23303100"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23303200",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Ackerbau"
+    ],
+    "terms_en_ss": [
+      "Agriculture",
+      "Cultivation"
+    ],
+    "broader_ss": [
+      "#concept_23303000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23303300",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Feldarbeit"
+    ],
+    "terms_en_ss": [
+      "Tillage"
+    ],
+    "broader_ss": [
+      "#concept_23303000",
+      "#concept_23303200"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23303310",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Landwirtschaftliches Gerät"
+    ],
+    "terms_en_ss": [
+      "Farm gear",
+      "Agricultural equipment"
+    ],
+    "broader_ss": [
+      "#concept_23303300",
+      "#concept_23304100"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23303320",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Wiesenwirtschaft"
+    ],
+    "terms_en_ss": [
+      "Agricultural meadows",
+      "Grassland"
+    ],
+    "broader_ss": [
+      "#concept_23303300"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23303330",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Getreideanbau"
+    ],
+    "terms_en_ss": [
+      "Grain farming",
+      "Cereal growing"
+    ],
+    "broader_ss": [
+      "#concept_23303300",
+      "#concept_13040000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23303340",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Ernte",
+      "Ernten"
+    ],
+    "terms_en_ss": [
+      "Harvest",
+      "Harvesting"
+    ],
+    "broader_ss": [
+      "#concept_23303300"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23303350",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Verarbeitung von Getreide",
+      "Getreideverarbeitung"
+    ],
+    "terms_en_ss": [
+      "Processing of grain",
+      "Grain processing"
+    ],
+    "broader_ss": [
+      "#concept_23303300",
+      "#concept_13040000",
+      "#concept_23305400"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23303360",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Ölproduktion"
+    ],
+    "terms_en_ss": [
+      "Oil production"
+    ],
+    "broader_ss": [
+      "#concept_23303300",
+      "#concept_23305400"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23303400",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Weidewirtschaft"
+    ],
+    "terms_en_ss": [
+      "Managed pasture",
+      "Pasturage"
+    ],
+    "broader_ss": [
+      "#concept_23303000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23303500",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Imkerei"
+    ],
+    "terms_en_ss": [
+      "Beekeeping",
+      "Apiculture"
+    ],
+    "broader_ss": [
+      "#concept_23303000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23303600",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Weinbau/Weinherstellung"
+    ],
+    "terms_en_ss": [
+      "Winegrowing/Winemaking",
+      "Viticulture/Vinification"
+    ],
+    "broader_ss": [
+      "#concept_23303000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23303610",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Weine/Namen"
+    ],
+    "terms_en_ss": [
+      "Wines/Names"
+    ],
+    "broader_ss": [
+      "#concept_23303600"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23303700",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Obstbau"
+    ],
+    "terms_en_ss": [
+      "Fruit growing",
+      "Orchard"
+    ],
+    "broader_ss": [
+      "#concept_23303000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23303800",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Gartenbau"
+    ],
+    "terms_en_ss": [
+      "Horticulture",
+      "Gardening"
+    ],
+    "broader_ss": [
+      "#concept_23303000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23303900",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Waldwirtschaft",
+      "Waldbau"
+    ],
+    "terms_en_ss": [
+      "Forestry",
+      "Silviculture"
+    ],
+    "broader_ss": [
+      "#concept_23303000",
+      "#concept_13020000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23304000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Beruf",
+      "Handwerk"
+    ],
+    "terms_en_ss": [
+      "Profession",
+      "Craft"
+    ],
+    "broader_ss": [
+      "#concept_23300000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23304100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Handarbeit/Werkzeuge/Ausrüstung",
+      "Handarbeit/Utensilien"
+    ],
+    "terms_en_ss": [
+      "Manual work/Tools/Equipment",
+      "Manual work/Utensils"
+    ],
+    "broader_ss": [
+      "#concept_23304000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23304200",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Spezifische Berufe",
+      "Spezifisches Handwerk"
+    ],
+    "terms_en_ss": [
+      "Specific professions",
+      "Individual professions"
+    ],
+    "broader_ss": [
+      "#concept_23304000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23304300",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Gefäße",
+      "Büchse"
+    ],
+    "terms_en_ss": [
+      "Vessels",
+      "Cup"
+    ],
+    "broader_ss": [
+      "#concept_23304000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23305000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Industrie"
+    ],
+    "terms_en_ss": [
+      "Industry"
+    ],
+    "broader_ss": [
+      "#concept_23300000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23305200",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Bergbau"
+    ],
+    "terms_en_ss": [
+      "Mining"
+    ],
+    "broader_ss": [
+      "#concept_23305000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23305300",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Metallverarbeitung"
+    ],
+    "terms_en_ss": [
+      "Metal processing"
+    ],
+    "broader_ss": [
+      "#concept_23305000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23305310",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Eisenverarbeitung"
+    ],
+    "terms_en_ss": [
+      "Iron processing"
+    ],
+    "broader_ss": [
+      "#concept_23305300"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23305320",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Gießerei"
+    ],
+    "terms_en_ss": [
+      "Foundry"
+    ],
+    "broader_ss": [
+      "#concept_23305300"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23305330",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Münzen",
+      "Prägung"
+    ],
+    "terms_en_ss": [
+      "Coins",
+      "Minting"
+    ],
+    "broader_ss": [
+      "#concept_23305300"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23305400",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Lebensmittelherstellung",
+      "Nahrungsmittelherstellung"
+    ],
+    "terms_en_ss": [
+      "Food processing"
+    ],
+    "broader_ss": [
+      "#concept_23305000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23305410",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Verarbeitung von Fleisch",
+      "Fleischverarbeitung"
+    ],
+    "terms_en_ss": [
+      "Meat processing"
+    ],
+    "broader_ss": [
+      "#concept_23305000",
+      "#concept_21111301",
+      "#concept_14011300"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23305500",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Textilherstellung/Textilverarbeitung"
+    ],
+    "terms_en_ss": [
+      "Textile manufacturing",
+      "Textile industry"
+    ],
+    "broader_ss": [
+      "#concept_23305000",
+      "#concept_23309090"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23305600",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Holzverarbeitung",
+      "Holzarbeit"
+    ],
+    "terms_en_ss": [
+      "Wood processing",
+      "Woodwork"
+    ],
+    "broader_ss": [
+      "#concept_23305000",
+      "#concept_13020000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23305700",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Steinbrucharbeiten/Steinmetzarbeiten",
+      "Steinmetz"
+    ],
+    "terms_en_ss": [
+      "Quarrying/Stonemasonry",
+      "Stonemason"
+    ],
+    "broader_ss": [
+      "#concept_23305000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23305800",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Keramikarbeit/Glasarbeit",
+      "Glaser"
+    ],
+    "terms_en_ss": [
+      "Ceramic work/Glass work",
+      "Glazier"
+    ],
+    "broader_ss": [
+      "#concept_23305000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23305900",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Lederherstellung/Lederverarbeitung",
+      "Gerben"
+    ],
+    "terms_en_ss": [
+      "Tanning/Leather processing"
+    ],
+    "broader_ss": [
+      "#concept_23305000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23305901",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Buchherstellung",
+      "Setzen"
+    ],
+    "terms_en_ss": [
+      "Book production",
+      "Letterpress"
+    ],
+    "broader_ss": [
+      "#concept_23305000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23306000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Handel/Finanzen"
+    ],
+    "terms_en_ss": [
+      "Trade/Finances"
+    ],
+    "broader_ss": [
+      "#concept_23300000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23307000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Transport/Verkehr"
+    ],
+    "terms_en_ss": [
+      "Transportation/Traffic"
+    ],
+    "broader_ss": [
+      "#concept_23300000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23307100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Landwege/Plätze"
+    ],
+    "terms_en_ss": [
+      "Roads and ways/Squares",
+      "Land route"
+    ],
+    "broader_ss": [
+      "#concept_23307000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23307120",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Landwege/Plätze/Namen"
+    ],
+    "terms_en_ss": [
+      "Roads and Ways/Squares/Names"
+    ],
+    "broader_ss": [
+      "#concept_23307100"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23307200",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Wasserwege"
+    ],
+    "terms_en_ss": [
+      "Waterways"
+    ],
+    "broader_ss": [
+      "#concept_23307000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23307210",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Anlagen am Wasser",
+      "Brücke"
+    ],
+    "terms_en_ss": [
+      "Installations on water/Installations near water",
+      "Bridge"
+    ],
+    "broader_ss": [
+      "#concept_23307200"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23307220",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Anlagen am Wasser/Namen"
+    ],
+    "terms_en_ss": [
+      "Installations on/near water /names"
+    ],
+    "broader_ss": [
+      "#concept_23307200"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23307230",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Seefahrt/Binnenschifffahrt",
+      "Schifffahrt"
+    ],
+    "terms_en_ss": [
+      "Seafaring/Inland navigation"
+    ],
+    "broader_ss": [
+      "#concept_23307200"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23307300",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Reisen",
+      "Fahrt"
+    ],
+    "terms_en_ss": [
+      "Travel",
+      "Journey"
+    ],
+    "broader_ss": [
+      "#concept_23307000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23307310",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Gastgewerbe",
+      "Wirtshaus"
+    ],
+    "terms_en_ss": [
+      "Hospitality industry",
+      "Tavern"
+    ],
+    "broader_ss": [
+      "#concept_23307300"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23307320",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Gastgewerbe/Namen"
+    ],
+    "terms_en_ss": [
+      "Taverns/Inns/Hostelry/Names"
+    ],
+    "broader_ss": [
+      "#concept_23307300"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23307400",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Nachrichtenwesen",
+      "Bote"
+    ],
+    "terms_en_ss": [
+      "Communications",
+      "Courier"
+    ],
+    "broader_ss": [
+      "#concept_23307000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23307500",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Transportmittel",
+      "Wagen"
+    ],
+    "terms_en_ss": [
+      "Means of transportation",
+      "Carriage"
+    ],
+    "broader_ss": [
+      "#concept_23307000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23307510",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Landfahrzeuge",
+      "Wagen"
+    ],
+    "terms_en_ss": [
+      "Land craft",
+      "Cart"
+    ],
+    "broader_ss": [
+      "#concept_23307500"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23307520",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Wasserfahrzeuge",
+      "Galeere"
+    ],
+    "terms_en_ss": [
+      "Water craft",
+      "Galley"
+    ],
+    "broader_ss": [
+      "#concept_23307500"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23308000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Besitz",
+      "Betteln"
+    ],
+    "terms_en_ss": [
+      "Property",
+      "Alms"
+    ],
+    "broader_ss": [
+      "#concept_23300000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23308100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Mangel/Bedürfnis/Misserfolg",
+      "Bedürfen"
+    ],
+    "terms_en_ss": [
+      "Deficiency/Want/Failure",
+      "Modest"
+    ],
+    "broader_ss": [
+      "#concept_23308000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23309000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Wohnen/Haushalt/Heim",
+      "Unterkunft"
+    ],
+    "terms_en_ss": [
+      "Habitation/Household/Home",
+      "House"
+    ],
+    "broader_ss": [
+      "#concept_23300000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23309020",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Gebäude",
+      "Errichten"
+    ],
+    "terms_en_ss": [
+      "Building",
+      "Build"
+    ],
+    "broader_ss": [
+      "#concept_23309000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23309021",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Gebäude/Namen"
+    ],
+    "terms_en_ss": [
+      "Building/Names"
+    ],
+    "broader_ss": [
+      "#concept_23309000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23309030",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Äußeres von Gebäuden"
+    ],
+    "terms_en_ss": [
+      "Exterior of buildings"
+    ],
+    "broader_ss": [
+      "#concept_23309020"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23309040",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Inneres von Gebäuden"
+    ],
+    "terms_en_ss": [
+      "Interior of buildings"
+    ],
+    "broader_ss": [
+      "#concept_23309020"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23309050",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Möbel",
+      "Einrichtung"
+    ],
+    "terms_en_ss": [
+      "Furniture",
+      "Dishes"
+    ],
+    "broader_ss": [
+      "#concept_23309000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23309060",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Küche/Küchenutensilien"
+    ],
+    "terms_en_ss": [
+      "Kitchen/Kitchen utensils"
+    ],
+    "broader_ss": [
+      "#concept_23309000",
+      "#concept_21111304"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23309070",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Heizung",
+      "Verbrennen"
+    ],
+    "terms_en_ss": [
+      "Heating",
+      "Ignite"
+    ],
+    "broader_ss": [
+      "#concept_23309000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23309080",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Beleuchtung",
+      "Leuchten"
+    ],
+    "terms_en_ss": [
+      "Lighting",
+      "Light"
+    ],
+    "broader_ss": [
+      "#concept_23309000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23309090",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Haushaltsführung",
+      "Hausarbeit"
+    ],
+    "terms_en_ss": [
+      "Home keeping",
+      "Domestic work"
+    ],
+    "broader_ss": [
+      "#concept_23309000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23309091",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Reinigung"
+    ],
+    "terms_en_ss": [
+      "Cleaning"
+    ],
+    "broader_ss": [
+      "#concept_23309090"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23309100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Wäsche",
+      "Ausstattung"
+    ],
+    "terms_en_ss": [
+      "Linen",
+      "Decoration"
+    ],
+    "broader_ss": [
+      "#concept_23309000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23309110",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Spezielle Frauenarbeiten"
+    ],
+    "terms_en_ss": [
+      "Special female crafts and labors"
+    ],
+    "broader_ss": [
+      "#concept_23309000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23310000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Hof/Hofhaltung",
+      "Höfling"
+    ],
+    "terms_en_ss": [
+      "Court/Hold court",
+      "Court servants"
+    ],
+    "broader_ss": [
+      "#concept_23300000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23310200",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Ämter"
+    ],
+    "terms_en_ss": [
+      "Offices"
+    ],
+    "broader_ss": [
+      "#concept_23310000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_23310300",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Herrschaftssymbolik/Amtssymbolik",
+      "Wappen"
+    ],
+    "terms_en_ss": [
+      "Symbols of power/Symbols of office",
+      "Regalia"
+    ],
+    "broader_ss": [
+      "#concept_23310000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24000000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Sozialer Aufbau"
+    ],
+    "terms_en_ss": [
+      "Social entities and hierarchy"
+    ],
+    "broader_ss": [
+      "#concept_20000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24100000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Politische Einheiten"
+    ],
+    "terms_en_ss": [
+      "Political entities",
+      "Political unit"
+    ],
+    "broader_ss": [
+      "#concept_24000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24120000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Politische Einheiten/Namen"
+    ],
+    "terms_en_ss": [
+      "Political Entities/Names"
+    ],
+    "broader_ss": [
+      "#concept_24100000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24121000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Fantastische politische Einheiten/Namen"
+    ],
+    "terms_en_ss": [
+      "Fantastic Political Entities/Names"
+    ],
+    "broader_ss": [
+      "#concept_24120000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24122000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Erdteile/Namen"
+    ],
+    "terms_en_ss": [
+      "Continents/Names"
+    ],
+    "broader_ss": [
+      "#concept_24120000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24200000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Kommunen"
+    ],
+    "terms_en_ss": [
+      "Communities",
+      "Medieval communes"
+    ],
+    "broader_ss": [
+      "#concept_24000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24210000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Stadt",
+      "Bürgerin"
+    ],
+    "terms_en_ss": [
+      "City",
+      "Citizen"
+    ],
+    "broader_ss": [
+      "#concept_24200000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24212000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Stadt/Namen"
+    ],
+    "terms_en_ss": [
+      "City/Names"
+    ],
+    "broader_ss": [
+      "#concept_24210000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24212100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Fantast. Städte/Namen"
+    ],
+    "terms_en_ss": [
+      "Phantast. Cities/Names"
+    ],
+    "broader_ss": [
+      "#concept_24212000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24213000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Kommunale Verwaltung",
+      "Stadtverwaltung"
+    ],
+    "terms_en_ss": [
+      "Local government",
+      "Local administration"
+    ],
+    "broader_ss": [
+      "#concept_24210000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24220000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Gemeinde/Ortschaft/Dorf",
+      "Gemeinschaft"
+    ],
+    "terms_en_ss": [
+      "Municipality/Town/Village",
+      "Township"
+    ],
+    "broader_ss": [
+      "#concept_24200000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24222000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Gemeinde/Ortschaft/Dorf/Namen"
+    ],
+    "terms_en_ss": [
+      "Township/Town/Village/Names"
+    ],
+    "broader_ss": [
+      "#concept_24220000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24222100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Gemeinde/Dorf: Straßen/Plätze/Namen"
+    ],
+    "terms_en_ss": [
+      "Township/Village: Streets/Squares/Names"
+    ],
+    "broader_ss": [
+      "#concept_24220000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24222300",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Fantastische Gemeinde/Ortschaft/Dorf/Namen"
+    ],
+    "terms_en_ss": [
+      "Fantastic Township/Town/Village/Names"
+    ],
+    "broader_ss": [
+      "#concept_24220000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24223000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Verwaltung von Gemeinde/Ortschaft/Dorf",
+      "Amt"
+    ],
+    "terms_en_ss": [
+      "Administration of municipality/town/village",
+      "Office"
+    ],
+    "broader_ss": [
+      "#concept_24220000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24224000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Kreis/Bezirk/Grafschaft"
+    ],
+    "terms_en_ss": [
+      "District/County"
+    ],
+    "broader_ss": [
+      "#concept_24220000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24300000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Gesellschaftliche Ordnung",
+      "Allgemeine soziale Ordnungskategorien"
+    ],
+    "terms_en_ss": [
+      "Social order",
+      "Society in general"
+    ],
+    "broader_ss": [
+      "#concept_24000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24320000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Soziale Klassen"
+    ],
+    "terms_en_ss": [
+      "Social classes"
+    ],
+    "broader_ss": [
+      "#concept_24300000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24321000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Adel",
+      "Edelfrau"
+    ],
+    "terms_en_ss": [
+      "Nobility",
+      "Nobleman"
+    ],
+    "broader_ss": [
+      "#concept_24320000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24322000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Freie"
+    ],
+    "terms_en_ss": [
+      "Freemen"
+    ],
+    "broader_ss": [
+      "#concept_24320000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24323000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Dienstklasse",
+      "Diener"
+    ],
+    "terms_en_ss": [
+      "Servants",
+      "Servant"
+    ],
+    "broader_ss": [
+      "#concept_24320000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24323100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Lehenswesen"
+    ],
+    "terms_en_ss": [
+      "Fiefdom"
+    ],
+    "broader_ss": [
+      "#concept_24323000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24324000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Bürgertum",
+      "Bürgerschaft"
+    ],
+    "terms_en_ss": [
+      "Citizenship",
+      "Burgher"
+    ],
+    "broader_ss": [
+      "#concept_24320000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24325000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Unterste Klassen",
+      "Bettlerin"
+    ],
+    "terms_en_ss": [
+      "Lowest classes",
+      "Beggar"
+    ],
+    "broader_ss": [
+      "#concept_24320000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24326000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Weltliche Hierarchie"
+    ],
+    "terms_en_ss": [
+      "Secular hierarchy"
+    ],
+    "broader_ss": [
+      "#concept_24320000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24330000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Rechtswesen",
+      "Recht"
+    ],
+    "terms_en_ss": [
+      "Legal system",
+      "Law"
+    ],
+    "broader_ss": [
+      "#concept_24300000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24340000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Ordnungsmacht"
+    ],
+    "terms_en_ss": [
+      "Order"
+    ],
+    "broader_ss": [
+      "#concept_24300000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24400000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Mythologie/Religion"
+    ],
+    "terms_en_ss": [
+      "Mythology/Religion"
+    ],
+    "broader_ss": [
+      "#concept_24000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24410000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Judäo-Christliche Mythologie",
+      "Kreatur"
+    ],
+    "terms_en_ss": [
+      "Judeo-Christian mythology",
+      "Angel"
+    ],
+    "broader_ss": [
+      "#concept_24400000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24411000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Bibel/Religionsgeschichte",
+      "Gleichnis"
+    ],
+    "terms_en_ss": [
+      "Bible/Religious history",
+      "Parable"
+    ],
+    "broader_ss": [
+      "#concept_24410000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24411100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Bibel/Religionsgeschichte/Namen"
+    ],
+    "terms_en_ss": [
+      "Bible/Religious History/Names"
+    ],
+    "broader_ss": [
+      "#concept_24411000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24420000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Nichtchristliche Mythologie",
+      "Teufel"
+    ],
+    "terms_en_ss": [
+      "Non-Christian mythology",
+      "Heresy"
+    ],
+    "broader_ss": [
+      "#concept_24400000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24421000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Nichtchristliche Mythologie/Namen"
+    ],
+    "terms_en_ss": [
+      "Non-Christian Mythology/Names"
+    ],
+    "broader_ss": [
+      "#concept_24420000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24422000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Nichtchristliche Kultstätten",
+      "Tempel"
+    ],
+    "terms_en_ss": [
+      "Non-Christian places of worship",
+      "Temple"
+    ],
+    "broader_ss": [
+      "#concept_24420000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24422100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Nichtchristliche Mythologie/Kultstätten/Namen"
+    ],
+    "terms_en_ss": [
+      "Non-Christian Mythology/Places of Worship /Names"
+    ],
+    "broader_ss": [
+      "#concept_24422000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24423000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Nichtchristliche Riten und Kulte"
+    ],
+    "terms_en_ss": [
+      "Non-Christian rites and cults"
+    ],
+    "broader_ss": [
+      "#concept_24420000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24423200",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Nichtchristliche Kultgegenstände"
+    ],
+    "terms_en_ss": [
+      "Non-Christian ritual objects"
+    ],
+    "broader_ss": [
+      "#concept_24423000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24430000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Volksmythologie/Aberglaube/Magie",
+      "Zauberei"
+    ],
+    "terms_en_ss": [
+      "Popular mythology/Superstition/Magic",
+      "Hell"
+    ],
+    "broader_ss": [
+      "#concept_24400000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24431000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Volksmythologie/Aberglaube/Namen"
+    ],
+    "terms_en_ss": [
+      "Popular Mythology/Superstition/Magic/Names"
+    ],
+    "broader_ss": [
+      "#concept_24430000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24440000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Christentum/Theologie"
+    ],
+    "terms_en_ss": [
+      "Christianity/Theology"
+    ],
+    "broader_ss": [
+      "#concept_24400000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24450000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Kirche",
+      "Stift"
+    ],
+    "terms_en_ss": [
+      "Church",
+      "Abbey"
+    ],
+    "broader_ss": [
+      "#concept_24400000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24451000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Kirchliche Organisation",
+      "Klerus"
+    ],
+    "terms_en_ss": [
+      "Ecclesiastical organization",
+      "Bishopric"
+    ],
+    "broader_ss": [
+      "#concept_24450000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24452000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Kirchliche Hierarchie"
+    ],
+    "terms_en_ss": [
+      "Ecclesiastical hierarchy"
+    ],
+    "broader_ss": [
+      "#concept_24450000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24453000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Ordenswesen",
+      "Bruderschaft"
+    ],
+    "terms_en_ss": [
+      "Monasticism",
+      "Monastery"
+    ],
+    "broader_ss": [
+      "#concept_24450000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24453100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Ordenswesen/Namen"
+    ],
+    "terms_en_ss": [
+      "Monastic Orders/Names"
+    ],
+    "broader_ss": [
+      "#concept_24453000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24454000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Kirchliche Ausstattung/Kultgegenstände",
+      "Ritualgegenstände"
+    ],
+    "terms_en_ss": [
+      "Ecclesiastical furnishings/Cult objects",
+      "Church ornaments"
+    ],
+    "broader_ss": [
+      "#concept_24450000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24455000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Christliche Kultstätten"
+    ],
+    "terms_en_ss": [
+      "Christian places of worship"
+    ],
+    "broader_ss": [
+      "#concept_24450000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24455100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Christliche Kultstätten/Namen"
+    ],
+    "terms_en_ss": [
+      "Christian Places of Worship/Names"
+    ],
+    "broader_ss": [
+      "#concept_24450000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24456000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Christliche Riten und Kulte"
+    ],
+    "terms_en_ss": [
+      "Christian rites und cults"
+    ],
+    "broader_ss": [
+      "#concept_24450000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24457000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Christliche Feiertage"
+    ],
+    "terms_en_ss": [
+      "Christian holidays"
+    ],
+    "broader_ss": [
+      "#concept_24450000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24458000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Christliche Feiertage/Namen"
+    ],
+    "terms_en_ss": [
+      "Christian Holidays Names"
+    ],
+    "broader_ss": [
+      "#concept_24450000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24460000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Jüdische Glaubensgemeinschaft",
+      "Jüdische Religionsgemeinschaft"
+    ],
+    "terms_en_ss": [
+      "Jewish faith community",
+      "Jewish religious community"
+    ],
+    "broader_ss": [
+      "#concept_24400000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_24470000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Himmel in Mythologie/Religion",
+      "Paradies"
+    ],
+    "terms_en_ss": [
+      "Heaven in mythology/religion",
+      "Paradise"
+    ],
+    "broader_ss": [
+      "#concept_24000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_25000000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Kunst/Kunsthandwerk"
+    ],
+    "terms_en_ss": [
+      "Arts/Handicraft",
+      "Arts and crafts"
+    ],
+    "broader_ss": [
+      "#concept_20000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_25100000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Künste",
+      "Kunstwerk"
+    ],
+    "terms_en_ss": [
+      "Arts",
+      "Artwork"
+    ],
+    "broader_ss": [
+      "#concept_25000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_25120000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Literatur",
+      "Schrift"
+    ],
+    "terms_en_ss": [
+      "Literature",
+      "Script"
+    ],
+    "broader_ss": [
+      "#concept_25100000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_25121000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Literatur/Namen"
+    ],
+    "terms_en_ss": [
+      "Literature/Names"
+    ],
+    "broader_ss": [
+      "#concept_25120000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_25122000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Literatur/Titel",
+      "Buchtitel"
+    ],
+    "terms_en_ss": [
+      "Literature/Titles",
+      "Book title"
+    ],
+    "broader_ss": [
+      "#concept_25120000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_25130000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Darstellende Kunst",
+      "Spiel"
+    ],
+    "terms_en_ss": [
+      "Performing arts",
+      "Play"
+    ],
+    "broader_ss": [
+      "#concept_25100000",
+      "#concept_32170000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_25131000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Theater",
+      "Spiel"
+    ],
+    "terms_en_ss": [
+      "Theatre",
+      "Spectacle"
+    ],
+    "broader_ss": [
+      "#concept_25130000",
+      "#concept_32170000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_25132000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Tanz"
+    ],
+    "terms_en_ss": [
+      "Dance"
+    ],
+    "broader_ss": [
+      "#concept_25130000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_25132100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Tanz/Namen"
+    ],
+    "terms_en_ss": [
+      "Dance/Names"
+    ],
+    "broader_ss": [
+      "#concept_25132000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_25140000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Bildende Kunst"
+    ],
+    "terms_en_ss": [
+      "Fine arts",
+      "Visual arts"
+    ],
+    "broader_ss": [
+      "#concept_25100000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_25141000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Bildende Kunst/Namen"
+    ],
+    "terms_en_ss": [
+      "Fine Arts/Names"
+    ],
+    "broader_ss": [
+      "#concept_25140000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_25150000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Musik im Allgemeinen"
+    ],
+    "terms_en_ss": [
+      "Music in general"
+    ],
+    "broader_ss": [
+      "#concept_25100000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_25151000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Musiklehre"
+    ],
+    "terms_en_ss": [
+      "Music theory"
+    ],
+    "broader_ss": [
+      "#concept_25150000",
+      "#concept_32170000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_25152000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Gesang",
+      "Singen"
+    ],
+    "terms_en_ss": [
+      "Chant",
+      "Singing"
+    ],
+    "broader_ss": [
+      "#concept_25150000",
+      "#concept_32170000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_25152100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Gesang/Namen"
+    ],
+    "terms_en_ss": [
+      "Singing/Chant/Names"
+    ],
+    "broader_ss": [
+      "#concept_25152000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_25153000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Instrumentalmusik"
+    ],
+    "terms_en_ss": [
+      "Instrumental music"
+    ],
+    "broader_ss": [
+      "#concept_25150000",
+      "#concept_32170000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_25153100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Instrumentalmusik/Namen"
+    ],
+    "terms_en_ss": [
+      "Instrumental Music/Names"
+    ],
+    "broader_ss": [
+      "#concept_25153000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_30000000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Mensch und Welt",
+      "Menschen und ihre Umwelt"
+    ],
+    "terms_en_ss": [
+      "Human and world",
+      "Humans and their environment"
+    ],
+    "broader_ss": [],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31000000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "A Priori"
+    ],
+    "terms_en_ss": [
+      "A priori"
+    ],
+    "broader_ss": [
+      "#concept_30000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31100000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Existenz",
+      "Leben"
+    ],
+    "terms_en_ss": [
+      "Existence",
+      "Life"
+    ],
+    "broader_ss": [
+      "#concept_31000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31200000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Eigenschaften/Zustände"
+    ],
+    "terms_en_ss": [
+      "Characteristic/Conditions"
+    ],
+    "broader_ss": [
+      "#concept_31000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31210000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Ausdehnung"
+    ],
+    "terms_en_ss": [
+      "Expanse"
+    ],
+    "broader_ss": [
+      "#concept_31200000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31220000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Gestalt"
+    ],
+    "terms_en_ss": [
+      "Shape"
+    ],
+    "broader_ss": [
+      "#concept_31200000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31230000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Physikalische Eigenschaften/Chemische Eigenschaften"
+    ],
+    "terms_en_ss": [
+      "Physical conditions/Chemical conditions"
+    ],
+    "broader_ss": [
+      "#concept_31200000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31231000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Feuer"
+    ],
+    "terms_en_ss": [
+      "Fire"
+    ],
+    "broader_ss": [
+      "#concept_31230000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31232000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Physikalische Substanzen/Chemische Substanzen"
+    ],
+    "terms_en_ss": [
+      "Physical substances/Chemical substances"
+    ],
+    "broader_ss": [
+      "#concept_31230000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31232100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Physikal. Chem. Substanzen/Namen"
+    ],
+    "terms_en_ss": [
+      "Physical and Chemical Substances"
+    ],
+    "broader_ss": [
+      "#concept_31232000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31232200",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Materialien"
+    ],
+    "terms_en_ss": [
+      "Materials"
+    ],
+    "broader_ss": [
+      "#concept_31232000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31240000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Sinnlich wahrnehmbare Eigenschaften"
+    ],
+    "terms_en_ss": [
+      "Sensually perceptible properties"
+    ],
+    "broader_ss": [
+      "#concept_31200000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31241000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Visuell",
+      "Blicken"
+    ],
+    "terms_en_ss": [
+      "Visual",
+      "See"
+    ],
+    "broader_ss": [
+      "#concept_31240000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31241100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Farben"
+    ],
+    "terms_en_ss": [
+      "Colours",
+      "Colors"
+    ],
+    "broader_ss": [
+      "#concept_31241000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31241200",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Formen"
+    ],
+    "terms_en_ss": [
+      "Shapes",
+      "Forms"
+    ],
+    "broader_ss": [
+      "#concept_31241000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31242000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Geräusche"
+    ],
+    "terms_en_ss": [
+      "Sounds",
+      "Noises"
+    ],
+    "broader_ss": [
+      "#concept_31240000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31243000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Gerüche",
+      "Geruch"
+    ],
+    "terms_en_ss": [
+      "Smells",
+      "Odour"
+    ],
+    "broader_ss": [
+      "#concept_31240000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31244000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Geschmäcke",
+      "Würze"
+    ],
+    "terms_en_ss": [
+      "Tastes",
+      "Flavor"
+    ],
+    "broader_ss": [
+      "#concept_31240000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31245000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Taktile Empfindungen",
+      "Tastsinn"
+    ],
+    "terms_en_ss": [
+      "Tactile sensations",
+      "Sense of touch"
+    ],
+    "broader_ss": [
+      "#concept_31240000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31246000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Temperaturempfindungen",
+      "Temperatur"
+    ],
+    "terms_en_ss": [
+      "Temperature perception",
+      "Temperature"
+    ],
+    "broader_ss": [
+      "#concept_31240000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31300000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Verhältnis/Ordnung/Wert"
+    ],
+    "terms_en_ss": [
+      "Relationship/Order/Value"
+    ],
+    "broader_ss": [
+      "#concept_31000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31310000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Verhältnis"
+    ],
+    "terms_en_ss": [
+      "Relationship"
+    ],
+    "broader_ss": [
+      "#concept_31300000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31320000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Ordnung/Unordnung",
+      "Durcheinander"
+    ],
+    "terms_en_ss": [
+      "Order/Disorder",
+      "Chaos"
+    ],
+    "broader_ss": [
+      "#concept_31300000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31330000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Wert/Unwert"
+    ],
+    "terms_en_ss": [
+      "Value//Worthlessness"
+    ],
+    "broader_ss": [
+      "#concept_31300000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31340000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Maße/Gewichte"
+    ],
+    "terms_en_ss": [
+      "Measures/Weights"
+    ],
+    "broader_ss": [
+      "#concept_31300000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31400000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Zahlen/Mengenbegriffe"
+    ],
+    "terms_en_ss": [
+      "Numbers/Quantity terms",
+      "Quantity concepts"
+    ],
+    "broader_ss": [
+      "#concept_31000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31410000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Mengenbegriffe"
+    ],
+    "terms_en_ss": [
+      "Quantity terms",
+      "Quantity concepts"
+    ],
+    "broader_ss": [
+      "#concept_31400000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31420000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Zahlen im Allgemeinen"
+    ],
+    "terms_en_ss": [
+      "Numbers in general"
+    ],
+    "broader_ss": [
+      "#concept_31400000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31422000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Kardinalzahlen"
+    ],
+    "terms_en_ss": [
+      "Cardinal numbers"
+    ],
+    "broader_ss": [
+      "#concept_31420000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31422100",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Römische Ziffern"
+    ],
+    "terms_en_ss": [
+      "Roman numerals"
+    ],
+    "broader_ss": [
+      "#concept_31422000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31422200",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Arabische Ziffern"
+    ],
+    "terms_en_ss": [
+      "Arabic numerals"
+    ],
+    "broader_ss": [
+      "#concept_31422000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31423000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Ordinalzahlen"
+    ],
+    "terms_en_ss": [
+      "Ordinal numbers"
+    ],
+    "broader_ss": [
+      "#concept_31420000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31424000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Brüche",
+      "Bruch"
+    ],
+    "terms_en_ss": [
+      "Fractions",
+      "Fraction"
+    ],
+    "broader_ss": [
+      "#concept_31420000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31425000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Sonstige mathematische Begriffe"
+    ],
+    "terms_en_ss": [
+      "Other mathematical terms",
+      "Other mathematical concepts"
+    ],
+    "broader_ss": [
+      "#concept_31420000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31500000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Raum"
+    ],
+    "terms_en_ss": [
+      "Space",
+      "Area"
+    ],
+    "broader_ss": [
+      "#concept_31000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31600000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Zeit"
+    ],
+    "terms_en_ss": [
+      "Time"
+    ],
+    "broader_ss": [
+      "#concept_31000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31610000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Zeit/Namen"
+    ],
+    "terms_en_ss": [
+      "Time/Names"
+    ],
+    "broader_ss": [
+      "#concept_31600000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31620000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Werden",
+      "Gedeihen"
+    ],
+    "terms_en_ss": [
+      "Becoming",
+      "Thriving"
+    ],
+    "broader_ss": [
+      "#concept_31600000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31630000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Vergehen",
+      "Enden"
+    ],
+    "terms_en_ss": [
+      "Fading",
+      "End"
+    ],
+    "broader_ss": [
+      "#concept_31600000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31700000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Glück/Pech",
+      "Fortuna"
+    ],
+    "terms_en_ss": [
+      "Fortune/Misfortune",
+      "Luck"
+    ],
+    "broader_ss": [
+      "#concept_31000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31800000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Bewegung"
+    ],
+    "terms_en_ss": [
+      "Movement"
+    ],
+    "broader_ss": [
+      "#concept_31000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_31900000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Werden im Allgemeinen/Vergehen im Allgemeinen"
+    ],
+    "terms_en_ss": [
+      "Becoming in general/Fading in general"
+    ],
+    "broader_ss": [
+      "#concept_31000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_32000000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Wissenschaft/Technik"
+    ],
+    "terms_en_ss": [
+      "Science/Technology"
+    ],
+    "broader_ss": [
+      "#concept_30000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_32100000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Septem artes liberales",
+      "Die sieben freien Künste"
+    ],
+    "terms_en_ss": [
+      "Septem artes liberales",
+      "The seven liberal arts"
+    ],
+    "broader_ss": [
+      "#concept_32000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_32110000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Grammatik"
+    ],
+    "terms_en_ss": [
+      "Grammar"
+    ],
+    "broader_ss": [
+      "#concept_32100000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_32111000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Grammatik/Namen"
+    ],
+    "terms_en_ss": [
+      "Grammar/Names"
+    ],
+    "broader_ss": [
+      "#concept_32110000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_32120000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Rhetorik"
+    ],
+    "terms_en_ss": [
+      "Rhetoric"
+    ],
+    "broader_ss": [
+      "#concept_32100000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_32121000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Rhetorik/Namen"
+    ],
+    "terms_en_ss": [
+      "Rhetoric/Names"
+    ],
+    "broader_ss": [
+      "#concept_32120000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_32130000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Dialektik"
+    ],
+    "terms_en_ss": [
+      "Dialectic"
+    ],
+    "broader_ss": [
+      "#concept_32100000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_32131000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Dialektik/Namen"
+    ],
+    "terms_en_ss": [
+      "Dialectic/Names"
+    ],
+    "broader_ss": [
+      "#concept_32130000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_32140000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Arithmetik"
+    ],
+    "terms_en_ss": [
+      "Arithmetic"
+    ],
+    "broader_ss": [
+      "#concept_32100000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_32141000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Arithmetik/Namen"
+    ],
+    "terms_en_ss": [
+      "Arithmetic/Names"
+    ],
+    "broader_ss": [
+      "#concept_32140000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_32150000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Geometrie"
+    ],
+    "terms_en_ss": [
+      "Geometry"
+    ],
+    "broader_ss": [
+      "#concept_32100000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_32151000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Geometrie/Namen"
+    ],
+    "terms_en_ss": [
+      "Geometry/Names"
+    ],
+    "broader_ss": [
+      "#concept_32100000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_32160000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Astronomie/Astrologie"
+    ],
+    "terms_en_ss": [
+      "Astronomy/Astrology"
+    ],
+    "broader_ss": [
+      "#concept_32100000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_32161000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Astronomie/Astrologie/Namen"
+    ],
+    "terms_en_ss": [
+      "Astronomy/Astrology/Names"
+    ],
+    "broader_ss": [
+      "#concept_32160000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_32162000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "AstronomInnen/AstrologInnen/Namen"
+    ],
+    "terms_en_ss": [
+      "Astronomers/Astrologers/Names"
+    ],
+    "broader_ss": [
+      "#concept_32160000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_32170000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Musiktheorie"
+    ],
+    "terms_en_ss": [
+      "Music theory"
+    ],
+    "broader_ss": [
+      "#concept_32100000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_32171000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Musiktheorie/Namen"
+    ],
+    "terms_en_ss": [
+      "Music Theory/Names"
+    ],
+    "broader_ss": [
+      "#concept_32170000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_32200000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Mineralogie/Petrologie",
+      "Steinkunde"
+    ],
+    "terms_en_ss": [
+      "Mineralogy/Petrology"
+    ],
+    "broader_ss": [
+      "#concept_32000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_32300000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Alchemie"
+    ],
+    "terms_en_ss": [
+      "Alchemy"
+    ],
+    "broader_ss": [
+      "#concept_32000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_32310000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Alchemie/Namen"
+    ],
+    "terms_en_ss": [
+      "Alchemy/Names"
+    ],
+    "broader_ss": [
+      "#concept_32300000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_32400000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Botanik"
+    ],
+    "terms_en_ss": [
+      "Botany"
+    ],
+    "broader_ss": [
+      "#concept_32000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_32500000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Zoologie"
+    ],
+    "terms_en_ss": [
+      "Zoology"
+    ],
+    "broader_ss": [
+      "#concept_32000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_32600000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Medizin/Anatomie"
+    ],
+    "terms_en_ss": [
+      "Medicine/Anatomy"
+    ],
+    "broader_ss": [
+      "#concept_32000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_32610000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Medizin/Anatomie/Namen"
+    ],
+    "terms_en_ss": [
+      "Medicine/Anatomy/Names"
+    ],
+    "broader_ss": [
+      "#concept_32600000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_32620000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Humoralmedizin/Diätetik",
+      "Humoralpathologie/Diätologie"
+    ],
+    "terms_en_ss": [
+      "Humoral medicine/Dietetics",
+      "Humoral pathology/Dietology"
+    ],
+    "broader_ss": [
+      "#concept_21091000",
+      "#concept_32600000",
+      "#concept_21090000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_32700000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Philosophie"
+    ],
+    "terms_en_ss": [
+      "Philosophy"
+    ],
+    "broader_ss": [
+      "#concept_32000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_32710000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Philosophie/Namen"
+    ],
+    "terms_en_ss": [
+      "Philosophy/Names"
+    ],
+    "broader_ss": [
+      "#concept_32000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_32800000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Geografie"
+    ],
+    "terms_en_ss": [
+      "Geography"
+    ],
+    "broader_ss": [
+      "#concept_32000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_32810000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Geografie/Namen"
+    ],
+    "terms_en_ss": [
+      "Geography/Names"
+    ],
+    "broader_ss": [
+      "#concept_32800000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_32900000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Geschichtswissenschaft"
+    ],
+    "terms_en_ss": [
+      "History"
+    ],
+    "broader_ss": [
+      "#concept_32000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_32910000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Geschichtswissenschaft/Namen"
+    ],
+    "terms_en_ss": [
+      "History/Namen"
+    ],
+    "broader_ss": [
+      "#concept_32900000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_90000000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Funktionswörter"
+    ],
+    "terms_en_ss": [
+      "Functional Words"
+    ],
+    "broader_ss": [],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_91000000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Nicht bestimmbare Formen"
+    ],
+    "terms_en_ss": [
+      "Not Identifiable Words"
+    ],
+    "broader_ss": [
+      "#concept_90000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_92000000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Nhd. Kommentare"
+    ],
+    "terms_en_ss": [
+      "NHG Commentaries"
+    ],
+    "broader_ss": [
+      "#concept_90000000"
+    ],
+    "exactMatch_ss": []
+  },
+  {
+    "id": "concept_93000000",
+    "entityTypes": [
+      "concept"
+    ],
+    "terms_de_ss": [
+      "Abkürzungen"
+    ],
+    "terms_en_ss": [
+      "Abbreviations"
+    ],
+    "broader_ss": [
+      "#concept_90000000"
+    ],
+    "exactMatch_ss": []
+  }
+]
