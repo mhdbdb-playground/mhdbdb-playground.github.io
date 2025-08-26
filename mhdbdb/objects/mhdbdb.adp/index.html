@@ -380,7 +380,7 @@
             `;
 
             // first load xml via GAMS-API
-            let url = `${GAMS.GAMS_API_ORIGIN}/api/v1/projects/mhdbdb/objects/mhdbdb.adp/datastreams/TEI.xml/content`;
+            let url = `/mhdbdb/data/texts/mhdbdb.adp/WORD_INDEX.gz`;
 
             // start timer
             let startTime = performance.now();
@@ -524,7 +524,7 @@
         containerDiv.appendChild(textParagraph);
 
 
-        mhdbdb.fetchGzip(`${GAMS.GAMS_API_ORIGIN}/api/v1/projects/${GAMS.PROJECT_ABBR}/objects/mhdbdb.adp/datastreams/WORD_INDEX.gz/content`, (wordObject) => {
+        mhdbdb.fetchGzip(`/mhdbdb/data/texts/mhdbdb.adp/WORD_INDEX.gz`, (wordObject) => {
             
             console.log("Word object:", wordObject);
 

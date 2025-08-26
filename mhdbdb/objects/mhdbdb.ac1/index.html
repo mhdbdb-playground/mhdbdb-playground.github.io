@@ -524,7 +524,7 @@
         containerDiv.appendChild(textParagraph);
 
 
-        mhdbdb.fetchGzip(`${GAMS.GAMS_API_ORIGIN}/api/v1/projects/${GAMS.PROJECT_ABBR}/objects/mhdbdb.ac1/datastreams/WORD_INDEX.gz/content`, (wordObject) => {
+        mhdbdb.fetchGzip(`/mhdbdb/data/texts/mhdbdb.ac1/WORD_INDEX.gz`, (wordObject) => {
             
             console.log("Word object:", wordObject);
 

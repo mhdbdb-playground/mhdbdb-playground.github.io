@@ -381,7 +381,7 @@
             `;
 
             // first load xml via GAMS-API
-            let url = `${GAMS.GAMS_API_ORIGIN}/api/v1/projects/mhdbdb/objects/mhdbdb.ak/datastreams/TEI.xml/content`;
+            let url = `/mhdbdb/data/texts/mhdbdb.ak/WORD_INDEX.gz`;
 
             // start timer
             let startTime = performance.now();
@@ -525,8 +525,8 @@
         containerDiv.appendChild(textParagraph);
 
 
-        mhdbdb.fetchGzip(`${GAMS.GAMS_API_ORIGIN}/api/v1/projects/${GAMS.PROJECT_ABBR}/objects/mhdbdb.ak/datastreams/WORD_INDEX.gz/content`, (wordObject) => {
-            
+        mhdbdb.fetchGzip(`/mhdbdb/data/texts/mhdbdb.ak/WORD_INDEX.gz`, (wordObject) => {
+
             console.log("Word object:", wordObject);
 
             // loop through all words and display them next to each other separated by whitespace AND paginate
