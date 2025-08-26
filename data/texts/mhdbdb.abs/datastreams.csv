@@ -1,0 +1,5 @@
+"dsid","dspath","title","mimetype","description","creator","rights","tags","lang"
+"DC.xml","DC.xml","DC.xml","text/xml","Datastream for DC.xml","MHDBDB","Creative Commons BY-NC 4.0","metadata","de;en"
+"TEI.xml","TEI.xml","MHDBDB text ABS as TEI file","text/xml","TEI file containing MHDBDB's 'Ein alemannisches Büchlein von guter Speise' text","MHDBDBD","Creative Commons BY-NC 4.0","text","de;en"
+"WORD_INDEX.gz","WORD_INDEX.gz","MHDBDB text ABS word index","application/x-gzip-compressed","Word index describing MHDBDB's 'Ein alemannisches Büchlein von guter Speise' text","MHDBDBD","Creative Commons BY-NC 4.0","index","en"
+"WORD_INDEX.json","WORD_INDEX.json","MHDBDB text ABS word index","application/json","Word index describing MHDBDB's 'Ein alemannisches Büchlein von guter Speise' text","MHDBDBD","Creative Commons BY-NC 4.0","index","en"
