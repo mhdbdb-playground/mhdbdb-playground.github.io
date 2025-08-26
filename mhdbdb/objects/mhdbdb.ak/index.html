@@ -19,19 +19,12 @@
 
       (async () => {
 
-        // retrieving last modified from GAMS5 
-        let response = await fetch("http://localhost:18085/api/v1/projects/mhdbdb/objects/mhdbdb.lexicon", {
-          method: "HEAD"
-        });
-
-        let lastModified = response.headers.get("last-modified")
-
         window.gams.projectDB.initDB(
           // project abbreviation
           "mhdbdb", 
           // expiration of the database: until which date the database is valid
           // (database will be rebuilt if createdAt from db is BEFORE this date)
-          new Date(lastModified)
+          new Date(1000)
         );
 
       })();
@@ -631,12 +624,6 @@
                     <li>Universität Graz</li>
                     <li><a target="_blank" href="https://gams.uni-graz.at/archive/objects/context:gams/methods/sdef:Context/get?mode=dataprotection&locale=de"><img width="200" src="https://gams.uni-graz.at/templates/img/by-nc.png"/></a></li>
                 </ul>
-            </div>
-            <div class="col-md-6">
-                <a target="_blank" href="http://localhost:18085/api/v1/projects/mhdbdb/objects/mhdbdb.material/datastreams/LOGO_MAIN01.png/content"><img src="http://localhost:18085/api/v1/projects/mhdbdb/objects/mhdbdb.material/datastreams/LOGO_MAIN01.png/content" /></a>
-                <a target="_blank" href="http://localhost:18085/api/v1/projects/mhdbdb/objects/mhdbdb.material/datastreams/LOGO_IZMF.png/content"><img width="300" src="http://localhost:18085/api/v1/projects/mhdbdb/objects/mhdbdb.material/datastreams/LOGO_IZMF.png/content" /></a>
-                <a target="_blank" href="http://localhost:18085/api/v1/projects/mhdbdb/objects/mhdbdb.material/datastreams/CLARIAH_LOGO.png/content"><img width="300" src="http://localhost:18085/api/v1/projects/mhdbdb/objects/mhdbdb.material/datastreams/CLARIAH_LOGO.png/content" /></a>
-                <a target="_blank" href="http://localhost:18085/api/v1/projects/mhdbdb/objects/mhdbdb.material/datastreams/CLARIAH_LOGO.png/content"><img width="300" src="http://localhost:18085/api/v1/projects/mhdbdb/objects/mhdbdb.material/datastreams/FBGERMANISTIK_LOGO1.jpg/content" /></a>
             </div>
         </div>
     </div>
